@@ -1,0 +1,363 @@
+ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,Family,Representation,Source_ID
+aue,=/Kx'au//'ein,Africa,-21.0554,21.1793,kxau1241,aue,Kxa,115,
+aau,Abau,Papunesia,-3.97222,141.324,abau1245,aau,Sepik,144,glockabau1999
+abz,Abui,Papunesia,-8.31058,124.588,abui1241,abz,Timor-Alor-Pantar,157,gkratochvilabui
+aca,Achagua,South America,4.38649,-72.2005,acha1250,aca,Arawakan,159,gwilsonachagua
+adz,Adzera,Papunesia,-6.39394,146.294,adze1240,adz,Austronesian,147,
+aio,Aiton,Eurasia,26.5145,92.3169,aito1238,aio,Tai-Kadai,139,hvsmoreytai2002
+akj,Aka-Jeru,Eurasia,13.1525,92.9504,akaj1239,akj,Great Andamanese,150,gabbigreatandamanese
+aka,Akan,Africa,6.34756,-1.33254,akan1250,aka,Atlantic-Congo,133,goforiakan;gosamakan;ldosamanimacyakan
+wbj,Alagwa,Africa,-4.64148,35.7231,alag1248,wbj,Afro-Asiatic,231,
+amp,Alamblak,Papunesia,-4.66307,143.316,alam1246,amp,Sepik,160,ebrucealamblak;gbrucealamblak
+abt,Ambulas,Papunesia,-3.7801,143.059,ambu1247,abt,Ndu,148,gwilsonambulas
+amh,Amharic,Africa,11.7082,39.5435,amha1245,amh,Afro-Asiatic,213,
+anz,Anem,Papunesia,-5.54836,148.993,anem1249,anz,,152,
+aoi,Anindilyakwa,Australia,-13.999,136.641,anin1240,aoi,Gunwinyguan,156,
+anu,Anywa,Africa,7.57714,34.0267,anua1242,anu,Nilotic,105,grehanywa
+NOCODE_Apolista,Apolista,South America,-14.83,-68.66,apol1242,,Arawakan,26,
+apu,Apurinã,South America,-8.21692,-66.7714,apur1254,apu,Arawakan,159,
+stk,Arammba,Papunesia,-8.29593,141.445,aram1253,stk,Morehead-Wasur,151,sboeveboevearammba
+aia,Arosi,Papunesia,-10.2441,161.432,aros1241,aia,Austronesian,88,
+cni,Asháninka,South America,-11.9311,-73.9073,asha1243,cni,Arawakan,145,
+amz,Atampaya,Australia,-11.0018,142.273,atam1239,amz,Pama-Nyungan,145,
+avn,Avatime,Africa,6.8688,0.41314,avat1244,avn,Atlantic-Congo,236,gfordavatime;hkroppdakubucentraltogo;typschuhavatime;typvanputtenavatime
+nfl,Ayiwo,Papunesia,-10.2302,166.21,ayiw1239,nfl,Austronesian,86,hvrossnaesstemotu
+bkc,Baka (Cameroon),Africa,2.16013,13.7804,baka1272,bkc,Atlantic-Congo,270,dbrissonboursierbaka;espaulinbakatransformations;gkilianhatzbaka;sdjoupeebaka;sleonardbaka
+bam,Bambara,Africa,12.0401,-9.98949,bamb1269,bam,Mande,198,gdumestrebambara2003;gdumestrebambaramali;gfofanatraorebamanakan
+baw,Bambili-Bambui,Africa,6.10821,10.2233,bamb1266,baw,Atlantic-Congo,93,gayuninjammbili
+bdy,Bandjalang,Australia,-28.3458,152.859,band1339,bdy,Pama-Nyungan,155,gtsharpeyugambehbandjalung;scrowleybandjalang
+dba,Bangime,Africa,14.8116,-3.77092,bang1363,dba,,242,
+bwi,Baniwa,South America,2.17859,-67.7704,bani1255,bwi,Arawakan,131,hvtypconstenlaintermedia
+bqj,Banjal,Africa,12.5258,-16.4245,band1340,bqj,Atlantic-Congo,111,gsagnabanjal
+bcm,Bannoni,Papunesia,-6.23061,155.128,bann1247,bcm,Austronesian,125,slynchrossbanoni
+bva,Barain,Africa,11.1168,18.0764,bare1279,bva,Afro-Asiatic,231,glovestrandbarain
+brm,Barambu,Africa,3.34642,26.861,bara1361,brm,Atlantic-Congo,263,hldtuckerbryannonbantuneafrica;hstuckerhackettzande;ssantandreabandazande
+bcj,Bardi,Australia,-16.6274,122.906,bard1255,bcj,Nyulnyulan,156,gbowernbardi2004
+bae,Baré,South America,1.91649,-66.828,bare1276,bae,Arawakan,156,
+btx,Batak Karo,Papunesia,2.12787,98.2517,bata1293,btx,Austronesian,160,
+brg,Baure,South America,-13.1278,-64.1838,baur1253,brg,Arawakan,160,
+bvz,Bauzi,Papunesia,-2.44717,137.629,bauz1241,bvz,Geelvink Bay,148,gbrileybauzi
+bda,Bayot,Africa,12.6881,-16.3947,bayo1255,bda,Atlantic-Congo,112,gdiagnebayot
+bej,Beja,Africa,17.2436,36.6666,beja1238,bej,Afro-Asiatic,219,gwedekindetalbeja
+bxb,Belanda Bor,Africa,6.6503,27.8232,bela1256,bxb,Nilotic,146,gvonheykingbelandaboor
+bez,Bena (Tanzania),Africa,-9.26671,35.0364,bena1262,bez,Atlantic-Congo,177,gmorrisonbena;vtypbernanderbena
+bcq,Bench,Africa,7.04682,35.7673,benc1235,bcq,Ta-Ne-Omotic,154,
+bhw,Biak,Papunesia,-0.9523,135.879,biak1248,bhw,Austronesian,160,gvandenheuvelbiak
+bjg,Bidyogo,Africa,11.1097,-16.1497,bidy1244,bjg,Atlantic-Congo,257,gsegererbijogo;gsegererbijogo2000
+blb,Bilua,Papunesia,-7.92388,156.663,bilu1245,blb,,159,gobatabilua
+bon,Bine,Papunesia,-9.08879,142.893,bine1240,bon,Eastern Trans-Fly,144,phonsaaribine
+gax,Boraana Oromo,Africa,1.05676,37.882,bora1271,gax,Afro-Asiatic,139,gstroomerboraana
+pcc,Bouyei,Eurasia,24.8484,106.187,bouy1240,pcc,Tai-Kadai,129,syubuyi
+ape,Bukiyip,Papunesia,-3.47169,143.111,buki1249,ape,Nuclear Torricelli,147,gconradwogigabukiyip
+bfn,Bunak,Papunesia,-9.13618,125.216,buna1278,bfn,Timor-Alor-Pantar,153,
+bnn,Bunun,Papunesia,23.4116,121.025,bunu1267,bnn,Austronesian,129,
+bvr,Burarra,Australia,-12.3061,134.365,bura1267,bvr,Maningrida,140,sgreenburarra
+mhs,Buru (Indonesia),Papunesia,-3.43957,126.632,buru1303,mhs,Austronesian,159,
+ceb,Cebuano,Papunesia,8.38799,124.367,cebu1242,ceb,Austronesian,133,
+cam,Cemuhî,Papunesia,-20.8489,165.13,cemu1238,cam,Austronesian,115,slynchcemuhi
+gqu,Central Gelao-Qau,Eurasia,26.155438,106.16455,qaua1234,gqu,Tai-Kadai,135,sheluogelao
+cbi,Cha'palaa,South America,0.71489,-79.0508,chac1249,cbi,Barbacoan,187,
+ccc,Chamicuro,South America,-5.1149,-75.6778,cham1318,ccc,Arawakan,90,
+mrn,Cheke Holo,Papunesia,-8.27055,159.625,chek1238,mrn,Austronesian,143,
+cgg,Chiga,Africa,-1.04387,29.9122,chig1238,cgg,Atlantic-Congo,122,gtaylornkorekiga
+kpc,Curripaco,South America,0.69618,-67.5028,curr1243,kpc,Arawakan,158,hvtypconstenlaintermedia
+dal,Dahalo,Africa,-2.1843,40.37,daha1245,dal,Afro-Asiatic,106,gtoscodahalo
+kbv,Dera (Indonesia),Papunesia,-3.52309,140.947,dera1245,kbv,Senagi,154,gdesousamenggwadla
+dim,Dime,Africa,6.20951,36.3329,dime1235,dim,South Omotic,106,gseyoumdime
+mdx,Dizin,Africa,6.1405,35.5763,dizi1235,mdx,Dizoid,160,gbeachydizin
+djr,Djambarrpuyngu,Australia,-12.021,135.59,djam1256,djr,Pama-Nyungan,154,gwilkinsondjambarrpuyngu
+duc,Duna,Papunesia,-5.41439,142.475,duna1248,duc,,153,
+nld,Dutch,Eurasia,52.0,5.0,dutc1256,nld,Indo-European,160,
+mky,East Makian,Papunesia,0.07337,127.423,east2440,mky,Austronesian,154,gbowdentaba
+cjm,Eastern Cham,Eurasia,11.2853,108.49,east2563,cjm,Austronesian,153,
+unk,Enawené-Nawé,South America,-12.4302,-58.9802,enaw1238,unk,Arawakan,22,
+eng,English,Eurasia,53.0,-1.0,stan1293,eng,Indo-European,95,
+ish,Esan,Africa,6.25685,6.33917,esan1238,ish,Atlantic-Congo,239,sareghanesan;typejeleesan;typrolleesan;typrolleesan2010
+eto,Eton,Africa,4.21045,11.3935,eton1253,eto,Atlantic-Congo,187,
+fij,Fijian,Papunesia,-18.0,178.33,fiji1243,fij,Austronesian,153,gdixonboumaa
+fin,Finnish,Eurasia,64.7628,25.5577,finn1318,fin,Uralic,265,
+for,Fore,Papunesia,-6.64473,145.507,fore1270,for,Nuclear Trans New Guinea,155,
+fut,Futuna-Aniwa,Papunesia,-19.5303,170.215,futu1245,fut,Austronesian,135,
+tbi,Gaahmg,Africa,11.4674,33.9797,gaam1241,tbi,Eastern Jebel,149,gstirtzgaahmg
+lug,Ganda,Africa,0.66884,32.1515,gand1255,lug,Atlantic-Congo,268,dbukenyakamogaluganda;gashtonetalluganda;gcrabtreeluganda;gmatovuluganda;smcphersonluganda
+gcd,Ganggalida,Australia,-17.5446,139.426,gang1267,gcd,Tangkic,158,
+pwg,Gapapaiwa,Papunesia,-9.73317,149.854,gapa1238,pwg,Austronesian,154,smcguckingapapaiwa
+wrk,Garawa,Australia,-17.4504,137.72014,gara1269,wrk,Garrwan,152,hvbreenwanyigarrwa;sfurbyfurbygarawa
+cab,Garifuna,North America,15.3529,-86.9091,gari1256,cab,Arawakan,121,
+gyg,Gbayi,Africa,5.57378,21.9707,gbay1278,gyg,Atlantic-Congo,270,wboydkpatiri
+nlg,Gela,Papunesia,-9.04587,160.186,gela1263,nlg,Austronesian,93,
+geq,Geme,Africa,8.48359,20.6611,geme1244,geq,Atlantic-Congo,271,phonboydnougayrolgeme
+gid,Gidar,Africa,9.87471,14.0785,gida1247,gid,Afro-Asiatic,144,gfrajzyngiergidar
+tof,Gizrra,Papunesia,-9.183,142.804,gizr1240,tof,Eastern Trans-Fly,152,gvanbodegravengizrra;phonvanbodegravengizrra
+gox,Gobu,Africa,5.01201,20.0194,gobu1238,gox,Atlantic-Congo,266,ssantandreabandazande
+ank,Goemai,Africa,8.74455,9.72453,goem1240,ank,Afro-Asiatic,169,ghellwiggoemai
+gvf,Golin,Papunesia,-6.2249,144.85,goli1247,gvf,Nuclear Trans New Guinea,148,
+gni,Gooniyandi,Australia,-18.4073,126.351,goon1238,gni,Bunaban,160,gmcgregorgooniyandi
+gow,Gorowa,Africa,-4.23575,35.7996,goro1270,gow,Afro-Asiatic,19,
+kbk,Grass Koiari,Papunesia,-9.51218,147.437,gras1249,kbk,Koiarian,158,sdduttonkoiari
+gqn,Guana (Brazil),South America,-19.1667,-54.0333,guan1270,gqn,Arawakan,69,
+gae,Guarequena,South America,1.80835,-66.9225,guar1293,gae,Arawakan,159,
+gup,Gunwinggu,Australia,-12.3398,133.358,gunw1252,gup,Gunwinyguan,160,gevansbininjgunwok
+goa,Guro,Africa,7.34954,-6.31154,guro1248,goa,Mande,244,gbenoistgouro;typkuznetsovaguromestoimenij;typvydrinegouropronoms
+hla,Halia,Papunesia,-5.26603,154.662,hali1244,hla,Austronesian,101,gallenhalia
+had,Hatam,Papunesia,-1.13531,134.037,hata1243,had,Hatam-Mansim,160,greesinkhatam
+hau,Hausa,Africa,11.1513,8.7804,haus1257,hau,Afro-Asiatic,163,gnewmanhausa;scaronhausa
+xed,Hdi,Africa,10.942,13.6881,hdii1240,xed,Afro-Asiatic,161,gfrajzyngierhdi
+hil,Hiligaynon,Papunesia,10.4018,122.974,hili1240,hil,Austronesian,124,
+gin,Hinuq,Eurasia,42.4502,45.8064,hinu1240,gin,Nakh-Daghestanian,154,gforkerhinuq
+lic,Hlai,Eurasia,18.8062,109.459,hlai1239,lic,Tai-Kadai,135,souyangli
+ygr,Hua,Papunesia,-6.32432,145.388,yaga1260,ygr,Nuclear Trans New Guinea,158,grenckyagaria
+iai,Iaai,Papunesia,-20.6301,166.59,iaai1238,iai,Austronesian,128,slynchiaai
+dbj,Ida'an,Papunesia,5.29059,118.515,idaa1241,dbj,Austronesian,159,
+ign,Ignaciano,South America,-15.1188,-65.3993,igna1246,ign,Arawakan,148,
+ilo,Iloko,Papunesia,15.9361,120.993,ilok1237,ilo,Austronesian,156,gdrubinoilocano2000;gvanoverberghiloko;srubinoiloko
+imn,Imonda,Papunesia,-3.31228,141.171,imon1245,imn,Border,146,gseilerimonda;gseilerimonda1985
+ind,Indonesian,Papunesia,-7.33458,109.716,indo1316,ind,Austronesian,149,
+irk,Iraqw,Africa,-4.19948,35.2939,iraq1241,irk,Afro-Asiatic,216,gmousiraqw1993
+crb,Island Carib,North America,14.2906,-61.2395,isla1278,crb,Arawakan,130,
+inp,Iñapari,South America,-12.4653,-69.3083,inap1243,inp,Arawakan,153,
+jav,Javanese,Papunesia,-0.572307,110.885,java1254,jav,Austronesian,129,
+kab,Kabyle,Africa,36.4103,4.76137,kaby1243,kab,Afro-Asiatic,131,gchakerkabylie1983;grabdiihbachen
+kxa,Kairiru,Papunesia,-3.34608,143.558,kair1263,kxa,Austronesian,125,
+mwp,Kala Lagaw Ya,Papunesia,-10.6748,142.196,kala1377,mwp,Pama-Nyungan,158,sfordoberkalawkawawya;skennedykalalagawya
+bco,Kaluli,Papunesia,-6.45932,142.788,kalu1248,bco,Bosavi,148,
+kms,Kamasau,Papunesia,-3.8503,143.842,kama1367,kms,Nuclear Torricelli,153,phonsanderssanderskamasau;ssanderssanderskamasau
+ktb,Kambaata,Africa,7.37582,37.9088,kamb1316,ktb,Afro-Asiatic,372,gtreiskambaata
+kgq,Kamoro,Papunesia,-4.30433,135.883,kamo1255,kgq,Nuclear Trans New Guinea,157,gdrabbekamoro
+soq,Kanasi,Papunesia,-10.1658,149.751,kana1288,soq,Dagan,146,
+kqw,Kandas,Papunesia,-4.3652,152.781,kand1301,kqw,Austronesian,85,
+pss,Kaulong,Papunesia,-6.08192,149.696,kaul1240,pss,Austronesian,151,
+gyd,Kayardild,Australia,-17.0695,139.489,kaya1319,gyd,Tangkic,160,gevanskayardild
+hhr,Keerak,Africa,12.3652,-16.6857,kera1248,hhr,Atlantic-Congo,239,
+sbc,Kele (Papua New Guinea),Papunesia,-2.09163,147.064,kele1258,sbc,Austronesian,97,srosskele
+kyo,Kelon,Papunesia,-8.40688,124.429,kelo1247,kyo,Timor-Alor-Pantar,148,gbairdklon
+kij,Kilivila,Papunesia,-8.72574,151.072,kili1267,kij,Austronesian,159,glawtonkiriwina;sdsenftkilivila
+kqr,Kimaragang,Papunesia,6.61982,116.96,kima1244,kqr,Austronesian,148,skroegerkimaragang
+kpw,Kobon,Papunesia,-5.16446,144.46,kobo1249,kpw,Nuclear Trans New Guinea,160,gdavieskobon1989
+kkk,Kokota,Papunesia,-8.16481,159.191,koko1269,kkk,Austronesian,160,gpalmerkokota1999;spalmerkokota
+kol,Kol (Papua New Guinea),Papunesia,-5.21042,151.583,kolp1236,kol,,150,
+kxc,Konso,Africa,5.39111,37.53,kons1243,kxc,Afro-Asiatic,131,gorkaydokonso
+kpr,Korafe-Yegha,Papunesia,-9.07,149.267,kora1294,kpr,Nuclear Trans New Guinea,160,gfarrkorafe
+khe,Korowai,Papunesia,-5.26952,140.047,koro1312,khe,Nuclear Trans New Guinea,159,gdevriesvanenkkorowai
+kos,Kosraean,Papunesia,5.5,163.0,kosr1238,kos,Austronesian,149,
+kvc,Kove,Papunesia,-5.58623,149.63,kove1237,kvc,Austronesian,100,hvsgouldenmaleu
+ksi,Krisa,Papunesia,-2.80084,141.303,kris1246,ksi,Sko,155,gdonohuesanroqueisaka
+kgo,Krongo,Africa,10.514,30.003,kron1241,kgo,Kadugli-Krongo,116,grehkrongo
+ksd,Kuanua,Papunesia,-4.30986,152.114,kuan1248,ksd,Austronesian,100,gmoseltolai;svmoseltok
+nee,Kumak,Papunesia,-20.4035,164.193,kuma1276,nee,Austronesian,160,
+kto,Kuot,Papunesia,-3.06952,151.537,kuot1243,kto,,160,glindstromkuot
+xkz,Kurtokha,Eurasia,27.5365,90.9822,kurt1248,xkz,Sino-Tibetan,152,ghyslopkurtop
+laj,Lango,Africa,2.13867,33.0553,lang1324,laj,Nilotic,159,gnoonanlango
+lao,Lao,Eurasia,16.0726,104.568,laoo1244,lao,Tai-Kadai,137,genfieldlao
+lbz,Lardil,Australia,-16.5615,139.434,lard1243,lbz,Tangkic,158,
+lvk,Lavukaleve,Papunesia,-9.05569,159.119,lavu1241,lvk,,160,gterrilllavukaleve
+beg,Lemeting,Papunesia,4.96207,114.933,bela1260,beg,Austronesian,147,sclynesbelait
+lin,Lingala,Africa,1.40324,19.7829,ling1263,lin,Atlantic-Congo,94,gmeeuwislingala;smeeuwislingala
+arw,Lokono,South America,5.64295,-56.9243,araw1276,arw,Arawakan,150,gpattearawakguyanes
+lom,Loma (Liberia),Africa,7.91585,-9.69906,loma1260,lom,Mande,174,gprostloghoma;ssadlerlooma
+lgu,Longgu,Papunesia,-9.75258,160.663,long1395,lgu,Austronesian,101,shilllonggu
+uvl,Lote,Papunesia,-5.954,150.911,lote1237,uvl,Austronesian,93,
+bxk,Lubukusu,Africa,0.68043,34.7719,buku1249,bxk,Atlantic-Congo,115,gaustenbukusu
+mas,Maasai,Africa,-3.1419,36.4573,masa1300,mas,Nilotic,129,gtuckertompoolempaayeimaasai
+ffm,Maasina Fulfulde,Africa,11.1324,-3.64763,maas1239,ffm,Atlantic-Congo,244,gbreedveldmaasinankore
+mcb,Machiguenga,South America,-12.1291,-72.5017,mach1267,mcb,Arawakan,156,
+mmx,Madak,Papunesia,-3.34342,151.967,mada1285,mmx,Austronesian,99,sleemadaksentences;typleemadakverbphrase
+mad,Madurese,Papunesia,-7.0,113.0,nucl1460,mad,Austronesian,137,
+NOCODE_Maipure,Maipure,South America,4.8,-67.5,maip1246,,Arawakan,140,
+zrs,Mairasi,Papunesia,-3.4511,134.071,nucl1594,zrs,Mairasi,139,gpeckhammairasi
+mbq,Maisin,Papunesia,-9.22853,148.731,mais1250,mbq,Austronesian,149,
+mak,Makasar,Papunesia,-5.65551,119.838,maka1311,mak,Austronesian,141,
+ymk,Makwe,Africa,-10.4673,40.0274,makw1236,ymk,Atlantic-Congo,173,gdevosmakwe
+gcc,Mali,Papunesia,-4.71826,152.214,mali1284,gcc,Baining,158,gstebbinsmali
+mva,Manam,Papunesia,-4.07921,145.033,mana1295,mva,Austronesian,160,glichtenberkmanam
+mgs,Manda-Matumba,Africa,-10.3991,34.7424,mand1423,mgs,Atlantic-Congo,141,
+mnk,Mandinka,Africa,12.8165,-15.6539,mand1436,mnk,Mande,250,gcreisselsmandinka;gcreisselssamboumandinka;gdramemandinka;growlandsmandinka;typnikitinasovx
+mbh,Mangseng,Papunesia,-5.89752,150.68,mang1403,mbh,Austronesian,97,smilliganmangseng
+mev,Mann,Africa,7.04616,-8.86405,mann1248,mev,Mande,230,gbeckerdonnermano;sschwabmano
+myf,Mao,Africa,9.82554,34.6522,bamb1262,myf,Mao,173,gahlandnorthernmao;syimammao
+mmd,Maonan,Eurasia,25.0169,108.024,maon1241,mmd,Tai-Kadai,131,glumaonan
+mri,Maori,Papunesia,-38.2881,176.541,maor1246,mri,Austronesian,129,
+mec,Mara,Australia,-14.7927,134.865,mara1385,mec,Mangarrayi-Maran,151,
+mrz,Marind,Papunesia,-8.15651,140.009,nucl1622,mrz,Anim,143,evanbaaldema;gdrabbemarind
+cuj,Mashco Piro,South America,-11.4745,-70.7953,mash1270,cuj,Arawakan,147,
+mph,Maung,Australia,-11.8393,133.185,maun1240,mph,Iwaidjan Proper,159,gsingermawng
+mhl,Mauwake,Papunesia,-4.52416,145.394,mauw1238,mhl,Nuclear Trans New Guinea,154,
+mgz,Mbugwe,Africa,-3.75763,35.8133,mbug1242,mgz,Atlantic-Congo,212,smousmbugwe
+mmh,Mehináku,South America,-12.5364,-53.521,mehi1240,mmh,Arawakan,26,
+men,Mende,Africa,7.90935,-10.9926,mend1266,men,Mande,142,gaginskymende;gmigeodmende;sinnesmende
+sim,Mende (Papua New Guinea),Papunesia,-3.67233,142.683,mend1268,sim,Sepik,150,shoeletalmende
+mee,Mengen,Papunesia,-5.47036,151.373,meng1267,mee,Austronesian,159,phonrathmengen
+mcr,Menya,Papunesia,-7.17425,146.071,meny1245,mcr,Angan,157,gwhiteheadmenya
+mxm,Meramera,Papunesia,-4.97468,151.528,mera1242,mxm,Austronesian,100,gohtsubameramera;phonohtsubamelamela;tohtsubameramera;typohtsubameramera
+ulk,Meriam,Papunesia,-9.59575,143.773,meri1244,ulk,Eastern Trans-Fly,155,spipermeryam;spipermeryam2013
+mej,Meyah,Papunesia,-1.18016,133.618,meya1236,mej,East Bird's Head,160,ggravellemeyah2004
+mpt,Mian,Papunesia,-4.70881,141.523,mian1256,mpt,Nuclear Trans New Guinea,160,
+bjo,Mid-Southern Banda,Africa,5.87893,22.4666,mids1243,bjo,Atlantic-Congo,263,ssantandreabandazande
+mei,Midob,Africa,14.789,27.2236,mido1240,mei,Nubian,70,gwernermidob;sthelwallmeidob
+bfm,Mmen,Africa,6.43213,10.2541,mmen1238,bfm,Atlantic-Congo,12,
+mkj,Mokilese,Papunesia,6.65651,159.776,moki1238,mkj,Austronesian,143,
+xmz,Mori Bawah,Papunesia,-2.56016,121.37,mori1268,xmz,Austronesian,138,
+mor,Moro,Africa,10.9194,30.2138,moro1285,mor,Heiban,133,sblackblackmoro;typgibbardetalmoro
+mnb,Muna,Papunesia,-5.40419,122.541,muna1247,mnb,Austronesian,160,gvandenbergmuna
+mwf,Murrinh-Patha,Australia,-14.7485,129.702,murr1258,mwf,Southern Daly,153,gwalshmurinypata;sstreetmurrinhpatha
+emi,Mussau-Emira,Papunesia,-1.44105,149.624,muss1246,emi,Austronesian,143,gbrowniebrowniemussau;srossmussau
+moa,Mwan,Africa,7.87533,-5.94577,mwan1250,moa,Mande,249,gflemingmona;typperekhvalskayamwan;typperekhvalskayamwandeictique;typperekhvalskayamwanverbale
+mlv,Mwotlap,Papunesia,-13.6535,167.673,motl1237,mlv,Austronesian,160,scrowleymwotlap
+nas,Naasioi,Papunesia,-6.46022,155.632,naas1242,nas,South Bougainville,96,
+naf,Nabak,Papunesia,-6.42709,146.966,naba1256,naf,Nuclear Trans New Guinea,141,gfabianfabianwatersnabak
+nak,Nakanai,Papunesia,-5.59931,150.888,naka1262,nak,Austronesian,159,gjohnstonnakanai
+nal,Nalik,Papunesia,-2.94411,151.332,nali1244,nal,Austronesian,101,
+naq,Nama,Africa,-25.0747,17.9767,nama1264,naq,Khoe-Kwadi,169,ghagmannama1977
+nnm,Namia,Papunesia,-3.85538,141.788,nami1256,nnm,Sepik,143,gfeldpauschfeldpauschnamia;wfeldpauschnamia
+cox,Nanti,South America,-12.1018,-72.3507,nant1250,cox,Arawakan,159,
+nay,Narrinyeri,Australia,-36.2301,140.158,narr1259,nay,Pama-Nyungan,125,hvwhorgenlowermurray;phonmcdonaldyaraldi;typcerinyaraldi
+ndg,Ndengereko,Africa,-7.54628,38.958,nden1248,ndg,Atlantic-Congo,125,gstromndengeleko
+NOCODE_Ngala-Santandrea,Ngala-Santandrea,Africa,6.63187,24.61853,ngal1296,,Atlantic-Congo,260,ssantandreabandazande
+nid,Ngandi,Australia,-12.8448,134.649,ngan1295,nid,Gunwinyguan,148,
+ung,Ngarinyin,Australia,-16.4006,126.433,ngar1284,ung,Worrorran,158,dcoateelkinngarinjin;gcoateoatesngarinjin;grumseyungarinjin
+nbq,Nggem,Papunesia,-3.62735,139.011,ngge1241,nbq,Nuclear Trans New Guinea,160,getheringtonnggem
+nia,Nias,Papunesia,0.90691,97.4961,nias1242,nia,Austronesian,157,
+fuv,Nigerian Fulfulde,Africa,10.9972,11.1188,nige1253,fuv,Atlantic-Congo,249,garnottfula;typarnottfulamiddle;typarnottfulativ
+nkx,Nkoroo,Africa,4.57641,7.45802,nkor1239,nkx,Ijoid,122,
+not,Nomatsiguenga,South America,-11.5349,-74.4371,noma1263,not,Arawakan,148,
+mrq,North Marquesan,Papunesia,-8.89412,-140.108,nort2845,mrq,Austronesian,148,slynchmarquesan
+nde,North Ndebele,Africa,-20.2513,27.4096,nort2795,nde,Atlantic-Congo,129,sbowernlotridgendebele
+ngb,Northern Ngbandi,Africa,3.56357,21.8525,nort2774,ngb,Atlantic-Congo,268,gtoronzoningbandi;sdlekensngbanditaal
+gya,Northwest Gbaya,Africa,5.9503,15.2569,nort2775,gya,Atlantic-Congo,252,gnossgbaya;gnossgbaya1969;groulondokogbaya;sroulongbayakara
+ncf,Notsi,Papunesia,-3.0557,151.661,nots1237,ncf,Austronesian,98,
+NOCODE_Nzadi,Nzadi,Africa,-4.102208,20.194462,nzad1234,,Atlantic-Congo,188,gcraneetalnzadi
+nzk,Nzakara,Africa,4.79567,22.8254,nzak1247,nzk,Atlantic-Congo,257,hldtuckerbryannonbantuneafrica;hstuckerhackettzande;sfouloubazoumanzakara;ssantandreabandazande
+oks,Oko,Africa,7.53908,6.15725,okoe1238,oks,Atlantic-Congo,171,gatoyebioko2009
+ury,Orya,Papunesia,-2.76483,139.89,orya1242,ury,Tor-Orya,145,phonfieldsorya;sfieldsorya
+otr,Otoro,Africa,11.1187,30.573,otor1240,otr,Heiban,169,gstevensonotoro
+pwn,Paiwan,Papunesia,22.3271,120.806,paiw1248,pwn,Austronesian,140,
+plu,Palikúr,South America,3.63993,-51.6246,pali1279,plu,Arawakan,152,
+pmb,Pambia,Africa,3.739,26.61,pamb1243,pmb,Atlantic-Congo,262,hldtuckerbryannonbantuneafrica;hstuckerhackettzande;ssantandreabandazande
+pab,Parecís,South America,-14.5929,-57.4059,pare1272,pab,Arawakan,109,
+NOCODE_Paunaca,Paunaca,South America,-15.954991,-61.944581,paun1241,,Arawakan,155,
+ata,Pele-Ata,Papunesia,-5.58045,151.05,pele1245,ata,,90,
+phk,Phake,Eurasia,27.8197,95.8131,phak1238,phk,Tai-Kadai,138,hvsmoreytai2002
+pio,Piapoco,South America,4.37718,-68.5953,piap1246,pio,Arawakan,138,
+plt,Plateau Malagasy,Africa,-19.5907,47.1211,plat1254,plt,Austronesian,150,
+fuc,Pulaar,Africa,13.8694,-13.4482,pula1263,fuc,Atlantic-Congo,240,gdeguiraudonfulbe;gfofanaschleicherpulaar;gsyllapulaar;sfaidherbepoul
+fuf,Pular,Africa,12.1826,-12.7338,pula1262,fuf,Atlantic-Congo,249,gdiallofuutajaloo;greichardtfulde;scaudilldiallofuutajallon
+puw,Puluwatese,Papunesia,6.69748,149.31,pulu1242,puw,Austronesian,102,
+pyu,Puyuma,Papunesia,22.643,120.996,puyu1239,pyu,Austronesian,159,
+byx,Qaqet,Papunesia,-4.45258,151.702,qaqe1238,byx,Baining,97,
+rai,Ramoaaina,Papunesia,-4.17306,152.451,ramo1244,rai,Austronesian,99,sdaviesfritzellramoaaina
+rap,Rapanui,Papunesia,-27.113,-109.342,rapa1244,rap,Austronesian,140,
+rwo,Rawa,Papunesia,-5.83155,145.937,rawa1267,rwo,Nuclear Trans New Guinea,147,
+rel,Rendille,Africa,2.27065,37.3608,rend1243,rel,Afro-Asiatic,58,sheinerendille1980
+mnv,Rennell-Bellona,Papunesia,-11.6237,160.265,renn1242,mnv,Austronesian,144,gelbertrennell
+rgr,Resígaro,South America,-2.48139,-71.3578,resi1247,rgr,Arawakan,141,
+rit,Ritarungo,Australia,-13.4559,135.259,rita1239,rit,Pama-Nyungan,152,
+roo,Rotokas,Papunesia,-5.94339,155.154,roto1249,roo,North Bougainville,145,grobinsonrotokas2007
+rtm,Rotuman,Papunesia,-12.5008,177.066,rotu1241,rtm,Austronesian,128,sschmidtrotuman
+rug,Roviana,Papunesia,-8.20493,157.408,rovi1238,rug,Austronesian,96,scorstonoliverroviana
+sll,Salt-Yui,Papunesia,-6.26519,145.021,salt1242,sll,Nuclear Trans New Guinea,135,
+smo,Samoan,Papunesia,-13.92,-171.83,samo1305,smo,Austronesian,146,
+sad,Sandawe,Africa,-5.26918,35.4808,sand1273,sad,,126,geatonsandawe;gsteemansandawe
+sps,Saposa,Papunesia,-5.64103,154.732,sapo1253,sps,Austronesian,93,
+sar,Saraveca,South America,-11.9423,-65.3945,sara1331,sar,Arawakan,35,
+svs,Savosavo,Papunesia,-9.12853,159.814,savo1255,svs,,101,
+lip,Sekpele,Africa,7.16751,0.5886,sekp1241,lip,Atlantic-Congo,166,
+snw,Selee,Africa,7.17462,0.42458,sele1249,snw,Atlantic-Congo,241,gagbetsoamedoselee;sharfletttateselee
+spl,Selepet,Papunesia,-6.03532,147.234,sele1250,spl,Nuclear Trans New Guinea,158,gmcelhanonselepetfinisterrehuon;smcelhanonselepet
+she,Sheko,Africa,7.05022,35.2826,shek1245,she,Dizoid,152,ghellenthalsheko
+sjr,Siar-Lak,Papunesia,-4.62059,152.892,siar1238,sjr,Austronesian,140,srosssiar
+sid,Sidaama,Africa,6.74176,38.3729,sida1246,sid,Afro-Asiatic,179,gkawachisidaama
+erg,Sie,Papunesia,-18.8181,169.166,siee1239,erg,Austronesian,156,gcrowleyerromangan;scrowleysye
+skq,Sininkere,Africa,13.7206,-0.78772,sini1242,skq,Mande,230,
+ssd,Siroi,Papunesia,-5.52893,145.994,siro1249,ssd,Nuclear Trans New Guinea,153,
+NOCODE_Sisiqa,Sisiqa,Papunesia,-7.0,156.83,sisi1250,,Austronesian,120,srosssisiqa
+siw,Siwai,Papunesia,-6.6429,155.452,siwa1245,siw,South Bougainville,151,donishimotuna;gonishimotuna
+akp,Siwu,Africa,7.23811,0.44362,siwu1238,akp,Atlantic-Congo,155,gfordiddahsiwu;sringakpafulolobi;stypdingemansesiwu;widdahsiwu
+sms,Skolt Sami,Eurasia,68.8326,29.7204,skol1241,sms,Uralic,151,gfeistskoltsaami
+teu,So,Africa,2.58367,34.7595,sooo1256,teu,Kuliak,152,gcarlinso
+som,Somali,Africa,4.778704,45.152856,soma1255,som,Afro-Asiatic,169,gsaeedsomali
+snk,Soninke,Africa,13.1273,-11.7178,soni1259,snk,Mande,233,gdiagnesoninke;ggiriersoninkee;smoujibsoninke
+erk,South Efate,Papunesia,-17.7006,168.377,sout2856,erk,Austronesian,160,gthiebergersefate
+ktz,South-Eastern Ju,Africa,-19.688,20.7673,juho1239,ktz,Kxa,163,
+kmc,Southern Dong,Eurasia,25.8874,109.222,sout2741,kmc,Tai-Kadai,132,syangedmondsonkam
+kjd,Southern Kiwai,Papunesia,-8.64889,143.244,sout2949,kjd,Kiwaian,140,graykiwai
+ssb,Southern Sama,Papunesia,5.07546,119.38,sout2918,ssb,Austronesian,145,sjunsama
+szp,Suabo,Papunesia,-2.07971,132.157,suab1238,szp,Inanwatan,155,sdevriesinanwatan
+tgo,Sudest,Papunesia,-11.5229,153.488,sude1239,tgo,Austronesian,95,sandersonrosssudest
+sue,Suena,Papunesia,-7.76339,147.534,suen1241,sue,Nuclear Trans New Guinea,149,
+syk,Sukur,Africa,10.8933,13.6437,suku1272,syk,Afro-Asiatic,155,gthomassakun
+sua,Sulka,Papunesia,-5.03471,151.891,sulk1246,sua,,157,sreesinksulka
+sgz,Sursurunga,Papunesia,-3.99078,152.768,surs1246,sgz,Austronesian,97,
+swe,Swedish,Eurasia,59.800634,17.389526,swed1254,swe,Indo-European,262,
+tcd,Tafi,Africa,6.79522,0.39875,tafi1243,tcd,Atlantic-Congo,171,gbobuafortafi
+tgl,Tagalog,Papunesia,14.06,121.747,taga1270,tgl,Austronesian,159,shimmelmanntagalog
+ago,Tainae,Papunesia,-7.40306,145.682,tain1253,ago,Angan,140,
+tnq,Taino,North America,18.2836,-66.8042,tain1254,tnq,Arawakan,12,
+tbc,Takia,Papunesia,-4.69057,145.975,taki1248,tbc,Austronesian,150,srosstakia
+tae,Tariana,South America,0.440205,-68.9042,tari1256,tae,Arawakan,159,
+trv,Taroko,Papunesia,23.9032,121.358,taro1264,trv,Austronesian,113,
+tya,Tauya,Papunesia,-5.74255,145.366,tauy1241,tya,Nuclear Trans New Guinea,159,gmacdonaldtauya
+tbo,Tawala,Papunesia,-10.3115,150.644,tawa1275,tbo,Austronesian,157,
+tkw,Teanu,Papunesia,-11.6752,166.868,tean1237,tkw,Austronesian,137,stryonbuma
+twe,Teiwa,Papunesia,-8.37662,124.174,teiw1235,twe,Timor-Alor-Pantar,75,
+tlf,Telefol,Papunesia,-5.07444,141.731,tele1256,tlf,Nuclear Trans New Guinea,159,dhealeyhealeytelefol;ghealeytelefol;phonhealeytelefol;typhealeytelefolnoun;typhealeytelefolverb
+tio,Teop,Papunesia,-5.67474,154.971,teop1238,tio,Austronesian,59,
+buo,Terei,Papunesia,-6.70051,155.745,tere1278,buo,South Bougainville,93,
+ter,Tereno,South America,-20.6614,-56.0329,tere1279,ter,Arawakan,130,
+tet,Tetum,Papunesia,-9.11217,125.528,tetu1245,tet,Austronesian,144,
+tha,Thai,Eurasia,14.192,100.671,thai1261,tha,Tai-Kadai,139,giwasakiingkaphiromthai
+thd,Thayore,Australia,-14.8159,142.034,thay1249,thd,Pama-Nyungan,160,ggabythaayorre
+tvo,Tidore,Papunesia,0.02461,127.746,tido1248,tvo,North Halmahera,159,gvanstadentidore
+tgc,Tigak,Papunesia,-2.70951,150.893,tiga1245,tgc,Austronesian,97,
+nza,Tigon Mbembe,Africa,6.98399,10.7085,tigo1236,nza,Atlantic-Congo,244,
+tms,Tima,Africa,11.7176,29.1632,tima1241,tms,Katla-Tima,110,galamintima2012
+tic,Tira,Africa,11.0963,30.8092,tira1254,tic,Heiban,155,sstevensontira
+tiv,Tiv,Africa,6.88039,9.26287,tivv1240,tiv,Atlantic-Congo,213,ldmccawleytiv;sabrahamtiv;sdabrahamtiv;typarnottfulativ
+tiw,Tiwi,Australia,-11.6308,130.949,tiwi1244,tiw,,159,dleetiwi;gleetiwi;gosbornetiwi
+tlb,Tobelo,Papunesia,1.0946,128.154,tobe1252,tlb,North Halmahera,149,gholtontobelo
+tod,Toma,Africa,8.20383,-9.23439,toma1245,tod,Mande,254,ssadlerlooma
+tqu,Touo,Papunesia,-8.58405,157.296,touo1238,tqu,,102,
+tsu,Tsou,Papunesia,23.216,120.787,tsou1248,tsu,Austronesian,155,szeitountsou
+lcm,Tungag,Papunesia,-2.52188,150.198,tung1290,lcm,Austronesian,97,sstammlavongai
+tuv,Turkana,Africa,4.30688,35.7101,turk1308,tuv,Nilotic,186,gdimmendaalturkana
+tuk,Turkmen,Eurasia,37.0872,59.1757,turk1304,tuk,Turkic,258,
+tvl,Tuvalu,Papunesia,-8.5,179.17,tuva1244,tvl,Austronesian,139,
+udu,Uduk,Africa,9.16012,34.2293,uduk1239,udu,Koman,253,
+kcf,Ukaan,Africa,7.59722,6.03933,ukaa1243,kcf,Atlantic-Congo,94,phonsalffnerukaan;typsalffnerikaan
+uli,Ulithian,Papunesia,10.0,140.0,ulit1238,uli,Austronesian,128,gsohnbenderulithian;slynchulithian
+gdn,Umanakaina,Papunesia,-9.89671,149.658,uman1240,gdn,Dagan,159,gevensenumanakaina
+mtg,Una,Papunesia,-4.69676,140.1,unaa1239,mtg,Nuclear Trans New Guinea,145,glouwerseuna
+bbn,Uneapa,Papunesia,-4.89383,149.141,unea1237,bbn,Austronesian,139,srossbalivitu
+wnu,Usan,Papunesia,-4.84265,145.362,usan1239,wnu,Nuclear Trans New Guinea,159,greesinkusan
+gel,Ut-Main,Africa,11.5319,4.8387,kagf1238,gel,Atlantic-Congo,170,typsmithutmain
+piv,Vaeakau-Taumako,Papunesia,-9.95114,167.207,pile1238,piv,Austronesian,106,
+wmb,Wambaya,Australia,-17.496,135.683,wamb1258,wmb,Mirndi,160,
+wms,Wambon,Papunesia,-5.44334,140.48,wamb1259,wms,Nuclear Trans New Guinea,148,
+wan,Wan,Africa,7.88773,-5.82092,wann1242,wan,Mande,248,htypnikitinawanproperties;typnikitinasovx;typnikitinawanpostpositional;typravenhillwan
+wap,Wapishana,South America,2.58744,-59.8021,wapi1253,wap,Arawakan,135,hvtypconstenlaintermedia
+wbp,Warlpiri,Australia,-20.1008,131.05,warl1254,wbp,Pama-Nyungan,158,dhalewarlpiri;gnashwarlpiri;gsimpsonwarlpiri1991;typhaleanalysisaustralian
+wrb,Warluwara,Australia,-22.2909,138.738,warl1256,wrb,Pama-Nyungan,159,
+wsk,Waskia,Papunesia,-4.57978,145.979,wask1241,wsk,Nuclear Trans New Guinea,146,grosspaolwaskia
+wau,Waurá,South America,-13.296,-53.6971,waur1244,wau,Arawakan,133,
+guc,Wayuu,South America,10.2252,-71.8101,wayu1243,guc,Arawakan,146,
+bbp,West Central Banda,Africa,6.81435,24.1012,west2458,bbp,Atlantic-Congo,255,ssantandreabandazande;ssantandreagolo
+kew,West Kewa,Papunesia,-6.32097,143.73,west2599,kew,Nuclear Trans New Guinea,158,dfranklinkewa;gfranklinkewa
+tnp,Whitesands,Papunesia,-19.5019,169.381,whit1269,tnp,Austronesian,154,styphammondwhitesands
+wol,Wolof,Africa,15.2534,-15.383,nucl1347,wol,Atlantic-Congo,252,dmunrogayewolof;gdioufwolof;gsauvageotdyolof;skawolof;sndiayewolof;sngomwolof;typcreisselsvoisinnouguierwolofvalency;typmclaughlinwolofnoun;typnouguierwolof;typrobertwolofclausechaining;typtorrencewolof;typvoisinnouguierwolof
+wuv,Wuvulu-Aua,Papunesia,-1.73938,142.851,wuvu1239,wuv,Austronesian,94,ghaffordwuvulu
+ane,Xârâcùù,Papunesia,-21.7034,165.996,xara1244,ane,Austronesian,154,slynchxaracuu
+jae,Yabem,Papunesia,-6.67052,147.81,yabe1254,jae,Austronesian,157,sbradshawczoborjabem;srossjabem
+axk,Yaka (Central African Republic),Africa,3.6515,17.2713,yaka1272,axk,Atlantic-Congo,265,lddukeaka;sthomasbahuchetaka
+ame,Yanesha',South America,-10.5454,-75.315,yane1238,ame,Arawakan,142,
+jao,Yanyuwa,Australia,-15.7621,136.055,yany1243,jao,Pama-Nyungan,145,
+yre,Yaouré,Africa,6.95282,-5.57851,yaou1238,yre,Mande,246,
+yap,Yapese,Papunesia,9.55811,138.125,yape1248,yap,Austronesian,145,
+yvt,Yavitero,South America,9.8194,-67.4283,yavi1244,yvt,Arawakan,143,
+yle,Yele,Papunesia,-11.3796,154.127,yele1255,yle,,156,
+yss,Yessan-Mayo,Papunesia,-4.15721,142.574,yess1239,yss,Sepik,147,gforemanyessan
+yey,Yeyi,Africa,-18.9178,23.6088,yeyi1239,yey,Atlantic-Congo,197,gseidelyeyi
+yee,Yimas,Papunesia,-4.71731,143.572,yima1243,yee,Lower Sepik-Ramu,159,gfoleyyimas
+zyb,Yongbei Zhuang,Eurasia,23.6818,107.184,yong1276,zyb,Tai-Kadai,139,hvldluozhuang;swangzhuangdong
+ycn,Yucuna,South America,-0.76075,-71.0033,yucu1253,ycn,Arawakan,146,
+zul,Zulu,Africa,-25.3305,31.3512,zulu1248,zul,Atlantic-Congo,58,gbuellzulu;gmbejezulu;spoulosboschzulu
+oon,Önge,Eurasia,10.6926,92.4707,onge1236,oon,Jarawa-Onge,83,hvblevinssister;sabbiandaman;sdasguptasharmaonge
+hgm,ǂAkhoe Haiǁom,Africa,-19.7637,17.0299,haio1238,hgm,Khoe-Kwadi,73,

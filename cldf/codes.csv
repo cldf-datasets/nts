@@ -1,0 +1,1175 @@
+ID,Parameter_ID,Name,Description,Number,Icon
+1-0,1,0,absent,0,c9999ff
+1-1,1,1,present,1,c000000
+1-2,1,?,Not known,2,cff4400
+2-0,2,0,absent,0,c9999ff
+2-1,2,1,present,1,c000000
+2-2,2,?,Not known,2,cff4400
+3-0,3,0,absent,0,c9999ff
+3-1,3,1,present,1,c000000
+3-2,3,?,Not known,2,cff4400
+4-0,4,0,absent,0,c9999ff
+4-1,4,1,present,1,c000000
+4-2,4,?,Not known,2,cff4400
+5-0,5,0,absent,0,c9999ff
+5-1,5,1,present,1,c000000
+5-2,5,?,Not known,2,cff4400
+6-0,6,0,absent,0,c9999ff
+6-1,6,1,present,1,c000000
+6-2,6,?,Not known,2,cff4400
+7-0,7,0,absent,0,c9999ff
+7-1,7,1,present,1,c000000
+7-2,7,?,Not known,2,cff4400
+8-0,8,0,absent,0,c9999ff
+8-1,8,1,present,1,c000000
+8-2,8,?,Not known,2,cff4400
+9-0,9,0,absent,0,c9999ff
+9-1,9,1,present,1,c000000
+9-2,9,?,Not known,2,cff4400
+10-0,10,0,absent,0,c9999ff
+10-1,10,1,present,1,c000000
+10-2,10,?,Not known,2,cff4400
+11-0,11,0,absent,0,c9999ff
+11-1,11,1,present,1,c000000
+11-2,11,?,Not known,2,cff4400
+12-0,12,0,absent,0,c9999ff
+12-1,12,1,present,1,c000000
+12-2,12,?,Not known,2,cff4400
+13-0,13,0,absent,0,c9999ff
+13-1,13,1,present,1,c000000
+13-2,13,?,Not known,2,cff4400
+14-0,14,0,absent,0,c9999ff
+14-1,14,1,present,1,c000000
+14-2,14,?,Not known,2,cff4400
+15-0,15,0,absent,0,c9999ff
+15-1,15,1,present,1,c000000
+15-2,15,?,Not known,2,cff4400
+16-0,16,0,absent,0,c9999ff
+16-1,16,1,present,1,c000000
+16-2,16,?,Not known,2,cff4400
+17-0,17,0,absent,0,c9999ff
+17-1,17,1,present,1,c000000
+17-2,17,?,Not known,2,cff4400
+18-0,18,0,absent,0,c9999ff
+18-1,18,1,present,1,c000000
+18-2,18,?,Not known,2,cff4400
+19-0,19,0,absent,0,c9999ff
+19-1,19,1,present,1,c000000
+19-2,19,?,Not known,2,cff4400
+20-0,20,0,absent,0,c990099
+20-1,20,1,present,1,c000000
+20-2,20,?,Not known,2,cff66ff
+20-3,20,N/A,Not Applicable,3,ccccccc
+21-0,21,0,absent,0,c990099
+21-1,21,1,present,1,c000000
+21-2,21,?,Not known,2,cff66ff
+21-3,21,N/A,Not Applicable,3,ccccccc
+22-0,22,0,absent,0,c990099
+22-1,22,1,present,1,c000000
+22-2,22,?,Not known,2,cff66ff
+22-3,22,N/A,Not Applicable,3,ccccccc
+23-0,23,0,absent,0,c990099
+23-1,23,1,present,1,c000000
+23-2,23,?,Not known,2,cff66ff
+23-3,23,N/A,Not Applicable,3,ccccccc
+24-0,24,1,Num-N,0,c000000
+24-1,24,2,N-Num,1,c99ffff
+24-2,24,3,both,2,c66ff33
+24-3,24,?,Not known,3,cff66ff
+24-4,24,N/A,Not Applicable,4,cdd0000
+25-0,25,1,Dem-N,0,c000000
+25-1,25,2,N-Dem,1,c99ffff
+25-2,25,3,both,2,c66ff33
+25-3,25,?,Not known,3,cff66ff
+25-4,25,N/A,Not Applicable,4,cdd0000
+26-0,26,0,absent,0,c990099
+26-1,26,1,present,1,c000000
+26-2,26,?,Not known,2,cff66ff
+26-3,26,N/A,Not Applicable,3,ccccccc
+27-0,27,0,absent,0,c990099
+27-1,27,1,present,1,c000000
+27-2,27,?,Not known,2,cff66ff
+27-3,27,N/A,Not Applicable,3,ccccccc
+28-0,28,0,absent,0,c990099
+28-1,28,1,present,1,c000000
+28-2,28,?,Not known,2,cff66ff
+28-3,28,N/A,Not Applicable,3,ccccccc
+29-0,29,0,absent,0,c990099
+29-1,29,1,present,1,c000000
+29-2,29,?,Not known,2,cff66ff
+29-3,29,N/A,Not Applicable,3,ccccccc
+30-0,30,0,absent,0,c990099
+30-1,30,1,present,1,c000000
+30-2,30,?,Not known,2,cff66ff
+30-3,30,N/A,Not Applicable,3,ccccccc
+31-0,31,0,absent,0,c990099
+31-1,31,1,present,1,c000000
+31-2,31,?,Not known,2,cff66ff
+31-3,31,N/A,Not Applicable,3,ccccccc
+32-0,32,0,absent,0,c990099
+32-1,32,1,present,1,c000000
+32-2,32,?,Not known,2,cff66ff
+32-3,32,N/A,Not Applicable,3,ccccccc
+33-0,33,0,absent,0,c990099
+33-1,33,1,present,1,c000000
+33-2,33,?,Not known,2,cff66ff
+33-3,33,N/A,Not Applicable,3,ccccccc
+34-0,34,0,absent,0,c990099
+34-1,34,1,present,1,c000000
+34-2,34,?,Not known,2,cff66ff
+34-3,34,N/A,Not Applicable,3,ccccccc
+35-0,35,0,absent,0,c990099
+35-1,35,1,present,1,c000000
+35-2,35,?,Not known,2,cff66ff
+35-3,35,N/A,Not Applicable,3,ccccccc
+36-0,36,0,absent,0,c990099
+36-1,36,1,present,1,c000000
+36-2,36,?,Not known,2,cff66ff
+36-3,36,N/A,Not Applicable,3,ccccccc
+37-0,37,0,absent,0,c990099
+37-1,37,1,present,1,c000000
+37-2,37,?,Not known,2,cff66ff
+37-3,37,N/A,Not Applicable,3,ccccccc
+38-0,38,0,absent,0,c990099
+38-1,38,1,present,1,c000000
+38-2,38,?,Not known,2,cff66ff
+38-3,38,N/A,Not Applicable,3,ccccccc
+39-0,39,0,absent,0,c990099
+39-1,39,1,present,1,c000000
+39-2,39,?,Not known,2,cff66ff
+39-3,39,N/A,Not Applicable,3,ccccccc
+40-0,40,0,absent,0,c990099
+40-1,40,1,present,1,c000000
+40-2,40,?,Not known,2,cff66ff
+40-3,40,N/A,Not Applicable,3,ccccccc
+41-0,41,0,absent,0,c990099
+41-1,41,1,present,1,c000000
+41-2,41,?,Not known,2,cff66ff
+41-3,41,N/A,Not Applicable,3,ccccccc
+42-0,42,0,absent,0,c990099
+42-1,42,1,present,1,c000000
+42-2,42,?,Not known,2,cff66ff
+42-3,42,N/A,Not Applicable,3,ccccccc
+43-0,43,0,absent,0,c990099
+43-1,43,1,present,1,c000000
+43-2,43,?,Not known,2,cff66ff
+43-3,43,N/A,Not Applicable,3,ccccccc
+44-0,44,0,absent,0,c990099
+44-1,44,1,present,1,c000000
+44-2,44,?,Not known,2,cff66ff
+44-3,44,N/A,Not Applicable,3,ccccccc
+45-0,45,0,absent,0,c990099
+45-1,45,1,present,1,c000000
+45-2,45,?,Not known,2,cff66ff
+45-3,45,N/A,Not Applicable,3,ccccccc
+46-0,46,0,absent,0,c990099
+46-1,46,1,present,1,c000000
+46-2,46,?,Not known,2,cff66ff
+46-3,46,N/A,Not Applicable,3,ccccccc
+47-0,47,0,absent,0,c990099
+47-1,47,1,present,1,c000000
+47-2,47,?,Not known,2,cff66ff
+47-3,47,N/A,Not Applicable,3,ccccccc
+48-0,48,0,absent,0,c990099
+48-1,48,1,present,1,c000000
+48-2,48,?,Not known,2,cff66ff
+48-3,48,N/A,Not Applicable,3,ccccccc
+49-0,49,0,absent,0,c990099
+49-1,49,1,present,1,c000000
+49-2,49,?,Not known,2,cff66ff
+49-3,49,N/A,Not Applicable,3,ccccccc
+50-0,50,0,absent,0,c990099
+50-1,50,1,present,1,c000000
+50-2,50,?,Not known,2,cff66ff
+50-3,50,N/A,Not Applicable,3,ccccccc
+51-0,51,0,absent,0,c990099
+51-1,51,1,present,1,c000000
+51-2,51,?,Not known,2,cff66ff
+51-3,51,N/A,Not Applicable,3,ccccccc
+52-0,52,0,absent,0,c990099
+52-1,52,1,present,1,c000000
+52-2,52,?,Not known,2,cff66ff
+52-3,52,N/A,Not Applicable,3,ccccccc
+53-0,53,0,absent,0,c990099
+53-1,53,1,present,1,c000000
+53-2,53,?,Not known,2,cff66ff
+53-3,53,N/A,Not Applicable,3,ccccccc
+54-0,54,0,absent,0,c990099
+54-1,54,1,present,1,c000000
+54-2,54,?,Not known,2,cff66ff
+54-3,54,N/A,Not Applicable,3,ccccccc
+55-0,55,0,absent,0,c990099
+55-1,55,1,present,1,c000000
+55-2,55,?,Not known,2,cff66ff
+55-3,55,N/A,Not Applicable,3,ccccccc
+56-0,56,0,absent,0,c990099
+56-1,56,1,present,1,c000000
+56-2,56,?,Not known,2,cff66ff
+56-3,56,N/A,Not Applicable,3,ccccccc
+57-0,57,0,absent,0,c990099
+57-1,57,1,present,1,c000000
+57-2,57,?,Not known,2,cff66ff
+57-3,57,N/A,Not Applicable,3,ccccccc
+58-0,58,0,absent,0,c990099
+58-1,58,1,present,1,c000000
+58-2,58,?,Not known,2,cff66ff
+58-3,58,N/A,Not Applicable,3,ccccccc
+59-0,59,0,absent,0,c990099
+59-1,59,1,present,1,c000000
+59-2,59,?,Not known,2,cff66ff
+59-3,59,N/A,Not Applicable,3,ccccccc
+60-0,60,0,absent,0,c990099
+60-1,60,1,present,1,c000000
+60-2,60,?,Not known,2,cff66ff
+60-3,60,N/A,Not Applicable,3,ccccccc
+61-0,61,0,absent,0,c990099
+61-1,61,1,present,1,c000000
+61-2,61,?,Not known,2,cff66ff
+61-3,61,N/A,Not Applicable,3,ccccccc
+62-0,62,0,absent,0,c990099
+62-1,62,1,present,1,c000000
+62-2,62,?,Not known,2,cff66ff
+62-3,62,N/A,Not Applicable,3,ccccccc
+63-0,63,0,absent,0,c990099
+63-1,63,1,present,1,c000000
+63-2,63,?,Not known,2,cff66ff
+63-3,63,N/A,Not Applicable,3,ccccccc
+64-0,64,0,absent,0,c990099
+64-1,64,1,present,1,c000000
+64-2,64,?,Not known,2,cff66ff
+64-3,64,N/A,Not Applicable,3,ccccccc
+65-0,65,1,Possessor-Possessed,0,c000000
+65-1,65,2,Possessed-Possessor,1,c99ffff
+65-2,65,3,both,2,c66ff33
+65-3,65,?,Not known,3,cff66ff
+65-4,65,N/A,Not Applicable,4,cdd0000
+66-0,66,0,absent,0,c990099
+66-1,66,1,present,1,c000000
+66-2,66,?,Not known,2,cff66ff
+66-3,66,N/A,Not Applicable,3,ccccccc
+67-0,67,1,Decimal,0,c009900
+67-1,67,2,Quinary,1,c99ffff
+67-2,67,3,Body-part tallying,2,c990099
+67-3,67,4,minimal,3,ccccccc
+67-4,67,?,Not known,4,cff4400
+67-5,67,N/A,Not Applicable,5,c000000
+68-0,68,0,absent,0,c990099
+68-1,68,1,present,1,c000000
+68-2,68,?,Not known,2,cff66ff
+68-3,68,N/A,Not Applicable,3,ccccccc
+69-0,69,0,absent,0,c990099
+69-1,69,1,present,1,c000000
+69-2,69,?,Not known,2,cff66ff
+69-3,69,N/A,Not Applicable,3,ccccccc
+70-0,70,0,absent,0,c990099
+70-1,70,1,present,1,c000000
+70-2,70,?,Not known,2,cff66ff
+70-3,70,N/A,Not Applicable,3,ccccccc
+71-0,71,0,absent,0,c990099
+71-1,71,1,present,1,c000000
+71-2,71,?,Not known,2,cff66ff
+71-3,71,N/A,Not Applicable,3,ccccccc
+72-0,72,0,absent,0,c990099
+72-1,72,1,present,1,c000000
+72-2,72,?,Not known,2,cff66ff
+72-3,72,N/A,Not Applicable,3,ccccccc
+73-0,73,0,absent,0,c990099
+73-1,73,1,present,1,c000000
+73-2,73,?,Not known,2,cff66ff
+73-3,73,N/A,Not Applicable,3,ccccccc
+74-0,74,0,absent,0,c990099
+74-1,74,1,present,1,c000000
+74-2,74,?,Not known,2,cff66ff
+74-3,74,N/A,Not Applicable,3,ccccccc
+75-0,75,0,absent,0,c990099
+75-1,75,1,present,1,c000000
+75-2,75,?,Not known,2,cff66ff
+75-3,75,N/A,Not Applicable,3,ccccccc
+76-0,76,0,absent,0,c990099
+76-1,76,1,present,1,c000000
+76-2,76,?,Not known,2,cff66ff
+76-3,76,N/A,Not Applicable,3,ccccccc
+77-0,77,0,absent,0,c990099
+77-1,77,1,present,1,c000000
+77-2,77,?,Not known,2,cff66ff
+77-3,77,N/A,Not Applicable,3,ccccccc
+78-0,78,0,absent,0,c990099
+78-1,78,1,present,1,c000000
+78-2,78,?,Not known,2,cff66ff
+78-3,78,N/A,Not Applicable,3,ccccccc
+79-0,79,0,absent,0,c990099
+79-1,79,1,present,1,c000000
+79-2,79,?,Not known,2,cff66ff
+79-3,79,N/A,Not Applicable,3,ccccccc
+80-0,80,0,absent,0,c990099
+80-1,80,1,present,1,c000000
+80-2,80,?,Not known,2,cff66ff
+80-3,80,N/A,Not Applicable,3,ccccccc
+81-0,81,0,absent,0,c990099
+81-1,81,1,present,1,c000000
+81-2,81,?,Not known,2,cff66ff
+81-3,81,N/A,Not Applicable,3,ccccccc
+82-0,82,0,absent,0,c990099
+82-1,82,1,present,1,c000000
+82-2,82,?,Not known,2,cff66ff
+82-3,82,N/A,Not Applicable,3,ccccccc
+83-0,83,0,absent,0,c990099
+83-1,83,1,present,1,c000000
+83-2,83,?,Not known,2,cff66ff
+83-3,83,N/A,Not Applicable,3,ccccccc
+84-0,84,0,absent,0,c990099
+84-1,84,1,present,1,c000000
+84-2,84,?,Not known,2,cff66ff
+84-3,84,N/A,Not Applicable,3,ccccccc
+85-0,85,0,absent,0,c990099
+85-1,85,1,present,1,c000000
+85-2,85,?,Not known,2,cff66ff
+85-3,85,N/A,Not Applicable,3,ccccccc
+86-0,86,0,absent,0,c990099
+86-1,86,1,present,1,c000000
+86-2,86,?,Not known,2,cff66ff
+86-3,86,N/A,Not Applicable,3,ccccccc
+87-0,87,0,absent,0,c990099
+87-1,87,1,present,1,c000000
+87-2,87,?,Not known,2,cff66ff
+87-3,87,N/A,Not Applicable,3,ccccccc
+88-0,88,0,absent,0,c990099
+88-1,88,1,present,1,c000000
+88-2,88,?,Not known,2,cff66ff
+88-3,88,N/A,Not Applicable,3,ccccccc
+89-0,89,0,absent,0,c990099
+89-1,89,1,present,1,c000000
+89-2,89,?,Not known,2,cff66ff
+89-3,89,N/A,Not Applicable,3,ccccccc
+90-0,90,0,absent,0,c990099
+90-1,90,1,present,1,c000000
+90-2,90,?,Not known,2,cff66ff
+90-3,90,N/A,Not Applicable,3,ccccccc
+91-0,91,0,absent,0,c990099
+91-1,91,1,present,1,c000000
+91-2,91,?,Not known,2,cff66ff
+91-3,91,N/A,Not Applicable,3,ccccccc
+92-0,92,0,absent,0,c990099
+92-1,92,1,present,1,c000000
+92-2,92,?,Not known,2,cff66ff
+92-3,92,N/A,Not Applicable,3,ccccccc
+93-0,93,0,absent,0,c990099
+93-1,93,1,present,1,c000000
+93-2,93,?,Not known,2,cff66ff
+93-3,93,N/A,Not Applicable,3,ccccccc
+94-0,94,0,absent,0,c990099
+94-1,94,1,present,1,c000000
+94-2,94,?,Not known,2,cff66ff
+94-3,94,N/A,Not Applicable,3,ccccccc
+95-0,95,0,absent,0,c990099
+95-1,95,1,present,1,c000000
+95-2,95,?,Not known,2,cff66ff
+95-3,95,N/A,Not Applicable,3,ccccccc
+96-0,96,0,absent,0,c990099
+96-1,96,1,present,1,c000000
+96-2,96,?,Not known,2,cff66ff
+96-3,96,N/A,Not Applicable,3,ccccccc
+97-0,97,0,absent,0,c990099
+97-1,97,1,present,1,c000000
+97-2,97,?,Not known,2,cff66ff
+97-3,97,N/A,Not Applicable,3,ccccccc
+98-0,98,0,absent,0,c990099
+98-1,98,1,present,1,c000000
+98-2,98,?,Not known,2,cff66ff
+98-3,98,N/A,Not Applicable,3,ccccccc
+99-0,99,0,absent,0,c990099
+99-1,99,1,present,1,c000000
+99-2,99,?,Not known,2,cff66ff
+99-3,99,N/A,Not Applicable,3,ccccccc
+100-0,100,0,absent,0,c990099
+100-1,100,1,present,1,c000000
+100-2,100,?,Not known,2,cff66ff
+100-3,100,N/A,Not Applicable,3,ccccccc
+101-0,101,0,absent,0,c990099
+101-1,101,1,present,1,c000000
+101-2,101,?,Not known,2,cff66ff
+101-3,101,N/A,Not Applicable,3,ccccccc
+102-0,102,0,absent,0,c990099
+102-1,102,1,present,1,c000000
+102-2,102,?,Not known,2,cff66ff
+102-3,102,N/A,Not Applicable,3,ccccccc
+103-0,103,0,absent,0,c990099
+103-1,103,1,present,1,c000000
+103-2,103,?,Not known,2,cff66ff
+103-3,103,N/A,Not Applicable,3,ccccccc
+104-0,104,0,absent,0,c990099
+104-1,104,1,present,1,c000000
+104-2,104,?,Not known,2,cff66ff
+104-3,104,N/A,Not Applicable,3,ccccccc
+105-0,105,0,absent,0,c990099
+105-1,105,1,present,1,c000000
+105-2,105,?,Not known,2,cff66ff
+105-3,105,N/A,Not Applicable,3,ccccccc
+106-0,106,0,absent,0,c990099
+106-1,106,1,present,1,c000000
+106-2,106,?,Not known,2,cff66ff
+106-3,106,N/A,Not Applicable,3,ccccccc
+107-0,107,0,absent,0,c990099
+107-1,107,1,present,1,c000000
+107-2,107,?,Not known,2,cff66ff
+107-3,107,N/A,Not Applicable,3,ccccccc
+108-0,108,0,absent,0,c990099
+108-1,108,1,present,1,c000000
+108-2,108,?,Not known,2,cff66ff
+108-3,108,N/A,Not Applicable,3,ccccccc
+109-0,109,0,absent,0,c990099
+109-1,109,1,present,1,c000000
+109-2,109,?,Not known,2,cff66ff
+109-3,109,N/A,Not Applicable,3,ccccccc
+110-0,110,0,absent,0,c990099
+110-1,110,1,present,1,c000000
+110-2,110,?,Not known,2,cff66ff
+110-3,110,N/A,Not Applicable,3,ccccccc
+111-0,111,0,absent,0,c990099
+111-1,111,1,present,1,c000000
+111-2,111,?,Not known,2,cff66ff
+111-3,111,N/A,Not Applicable,3,ccccccc
+112-0,112,0,absent,0,c990099
+112-1,112,1,present,1,c000000
+112-2,112,?,Not known,2,cff66ff
+112-3,112,N/A,Not Applicable,3,ccccccc
+113-0,113,0,absent,0,c990099
+113-1,113,1,present,1,c000000
+113-2,113,?,Not known,2,cff66ff
+113-3,113,N/A,Not Applicable,3,ccccccc
+114-0,114,0,absent,0,c990099
+114-1,114,1,present,1,c000000
+114-2,114,?,Not known,2,cff66ff
+114-3,114,N/A,Not Applicable,3,ccccccc
+115-0,115,0,absent,0,c990099
+115-1,115,1,present,1,c000000
+115-2,115,?,Not known,2,cff66ff
+115-3,115,N/A,Not Applicable,3,ccccccc
+116-0,116,0,absent,0,c990099
+116-1,116,1,present,1,c000000
+116-2,116,?,Not known,2,cff66ff
+116-3,116,N/A,Not Applicable,3,ccccccc
+117-0,117,0,absent,0,c990099
+117-1,117,1,present,1,c000000
+117-2,117,?,Not known,2,cff66ff
+117-3,117,N/A,Not Applicable,3,ccccccc
+118-0,118,0,absent,0,c990099
+118-1,118,1,present,1,c000000
+118-2,118,?,Not known,2,cff66ff
+118-3,118,N/A,Not Applicable,3,ccccccc
+119-0,119,0,absent,0,c990099
+119-1,119,1,present,1,c000000
+119-2,119,?,Not known,2,cff66ff
+119-3,119,N/A,Not Applicable,3,ccccccc
+120-0,120,0,absent,0,c990099
+120-1,120,1,present,1,c000000
+120-2,120,?,Not known,2,cff66ff
+120-3,120,N/A,Not Applicable,3,ccccccc
+121-0,121,0,absent,0,c990099
+121-1,121,1,present,1,c000000
+121-2,121,?,Not known,2,cff66ff
+121-3,121,N/A,Not Applicable,3,ccccccc
+122-0,122,0,absent,0,c990099
+122-1,122,1,present,1,c000000
+122-2,122,?,Not known,2,cff66ff
+122-3,122,N/A,Not Applicable,3,ccccccc
+123-0,123,0,absent,0,c990099
+123-1,123,1,present,1,c000000
+123-2,123,?,Not known,2,cff66ff
+123-3,123,N/A,Not Applicable,3,ccccccc
+124-0,124,0,absent,0,c990099
+124-1,124,1,present,1,c000000
+124-2,124,?,Not known,2,cff66ff
+124-3,124,N/A,Not Applicable,3,ccccccc
+125-0,125,0,absent,0,c990099
+125-1,125,1,present,1,c000000
+125-2,125,?,Not known,2,cff66ff
+125-3,125,N/A,Not Applicable,3,ccccccc
+126-0,126,0,absent,0,c990099
+126-1,126,1,present,1,c000000
+126-2,126,?,Not known,2,cff66ff
+126-3,126,N/A,Not Applicable,3,ccccccc
+127-0,127,0,absent,0,c990099
+127-1,127,1,present,1,c000000
+127-2,127,?,Not known,2,cff66ff
+127-3,127,N/A,Not Applicable,3,ccccccc
+128-0,128,0,absent,0,c990099
+128-1,128,1,present,1,c000000
+128-2,128,?,Not known,2,cff66ff
+128-3,128,N/A,Not Applicable,3,ccccccc
+129-0,129,0,absent,0,c990099
+129-1,129,1,present,1,c000000
+129-2,129,?,Not known,2,cff66ff
+129-3,129,N/A,Not Applicable,3,ccccccc
+130-0,130,1,SV,0,c000000
+130-1,130,2,VS,1,c99ffff
+130-2,130,3,both,2,c66ff33
+130-3,130,?,Not known,3,cff66ff
+130-4,130,N/A,Not Applicable,4,cdd0000
+131-0,131,0,absent,0,c990099
+131-1,131,1,present,1,c000000
+131-2,131,?,Not known,2,cff66ff
+131-3,131,N/A,Not Applicable,3,ccccccc
+132-0,132,0,absent,0,c990099
+132-1,132,1,present,1,c000000
+132-2,132,?,Not known,2,cff66ff
+132-3,132,N/A,Not Applicable,3,ccccccc
+133-0,133,0,absent,0,c990099
+133-1,133,1,present,1,c000000
+133-2,133,?,Not known,2,cff66ff
+133-3,133,N/A,Not Applicable,3,ccccccc
+134-0,134,0,absent,0,c990099
+134-1,134,1,present,1,c000000
+134-2,134,?,Not known,2,cff66ff
+134-3,134,N/A,Not Applicable,3,ccccccc
+135-0,135,0,absent,0,c990099
+135-1,135,1,present,1,c000000
+135-2,135,?,Not known,2,cff66ff
+135-3,135,N/A,Not Applicable,3,ccccccc
+136-0,136,0,absent,0,c990099
+136-1,136,1,present,1,c000000
+136-2,136,?,Not known,2,cff66ff
+136-3,136,N/A,Not Applicable,3,ccccccc
+137-0,137,0,absent,0,c990099
+137-1,137,1,present,1,c000000
+137-2,137,?,Not known,2,cff66ff
+137-3,137,N/A,Not Applicable,3,ccccccc
+138-0,138,0,absent,0,c990099
+138-1,138,1,present,1,c000000
+138-2,138,?,Not known,2,cff66ff
+138-3,138,N/A,Not Applicable,3,ccccccc
+139-0,139,0,absent,0,c990099
+139-1,139,1,present,1,c000000
+139-2,139,?,Not known,2,cff66ff
+139-3,139,N/A,Not Applicable,3,ccccccc
+140-0,140,0,absent,0,c990099
+140-1,140,1,present,1,c000000
+140-2,140,?,Not known,2,cff66ff
+140-3,140,N/A,Not Applicable,3,ccccccc
+141-0,141,0,absent,0,c990099
+141-1,141,1,present,1,c000000
+141-2,141,?,Not known,2,cff66ff
+141-3,141,N/A,Not Applicable,3,ccccccc
+142-0,142,0,absent,0,c990099
+142-1,142,1,present,1,c000000
+142-2,142,?,Not known,2,cff66ff
+142-3,142,N/A,Not Applicable,3,ccccccc
+143-0,143,0,absent,0,c990099
+143-1,143,1,present,1,c000000
+143-2,143,?,Not known,2,cff66ff
+143-3,143,N/A,Not Applicable,3,ccccccc
+144-0,144,0,absent,0,c990099
+144-1,144,1,present,1,c000000
+144-2,144,?,Not known,2,cff66ff
+144-3,144,N/A,Not Applicable,3,ccccccc
+145-0,145,0,absent,0,c990099
+145-1,145,1,present,1,c000000
+145-2,145,?,Not known,2,cff66ff
+145-3,145,N/A,Not Applicable,3,ccccccc
+146-0,146,0,absent,0,c990099
+146-1,146,1,present,1,c000000
+146-2,146,?,Not known,2,cff66ff
+146-3,146,N/A,Not Applicable,3,ccccccc
+147-0,147,0,absent,0,c990099
+147-1,147,1,present,1,c000000
+147-2,147,?,Not known,2,cff66ff
+147-3,147,N/A,Not Applicable,3,ccccccc
+148-0,148,0,absent,0,c990099
+148-1,148,1,present,1,c000000
+148-2,148,?,Not known,2,cff66ff
+148-3,148,N/A,Not Applicable,3,ccccccc
+149-0,149,0,absent,0,c990099
+149-1,149,1,present,1,c000000
+149-2,149,?,Not known,2,cff66ff
+149-3,149,N/A,Not Applicable,3,ccccccc
+150-0,150,0,absent,0,c990099
+150-1,150,1,present,1,c000000
+150-2,150,?,Not known,2,cff66ff
+150-3,150,N/A,Not Applicable,3,ccccccc
+151-0,151,0,absent,0,c990099
+151-1,151,1,present,1,c000000
+151-2,151,?,Not known,2,cff66ff
+151-3,151,N/A,Not Applicable,3,ccccccc
+152-0,152,0,absent,0,c990099
+152-1,152,1,present,1,c000000
+152-2,152,?,Not known,2,cff66ff
+152-3,152,N/A,Not Applicable,3,ccccccc
+153-0,153,0,absent,0,c990099
+153-1,153,1,present,1,c000000
+153-2,153,?,Not known,2,cff66ff
+153-3,153,N/A,Not Applicable,3,ccccccc
+154-0,154,0,absent,0,c990099
+154-1,154,1,present,1,c000000
+154-2,154,?,Not known,2,cff66ff
+154-3,154,N/A,Not Applicable,3,ccccccc
+155-0,155,0,absent,0,c990099
+155-1,155,1,present,1,c000000
+155-2,155,?,Not known,2,cff66ff
+155-3,155,N/A,Not Applicable,3,ccccccc
+156-0,156,0,absent,0,c990099
+156-1,156,1,present,1,c000000
+156-2,156,?,Not known,2,cff66ff
+156-3,156,N/A,Not Applicable,3,ccccccc
+157-0,157,0,absent,0,c990099
+157-1,157,1,present,1,c000000
+157-2,157,?,Not known,2,cff66ff
+157-3,157,N/A,Not Applicable,3,ccccccc
+158-0,158,0,absent,0,c990099
+158-1,158,1,present,1,c000000
+158-2,158,?,Not known,2,cff66ff
+158-3,158,N/A,Not Applicable,3,ccccccc
+159-0,159,0,absent,0,c990099
+159-1,159,1,present,1,c000000
+159-2,159,?,Not known,2,cff66ff
+159-3,159,N/A,Not Applicable,3,ccccccc
+160-0,160,0,absent,0,c990099
+160-1,160,1,present,1,c000000
+160-2,160,?,Not known,2,cff66ff
+160-3,160,N/A,Not Applicable,3,ccccccc
+162-0,162,0,absent,0,c990099
+162-1,162,1,present,1,c000000
+162-2,162,?,Not known,2,cff66ff
+162-3,162,N/A,Not Applicable,3,ccccccc
+163-0,163,0,0,0,caa0000
+163-1,163,1,1,1,c99ffff
+163-2,163,10,10,2,c009900
+163-3,163,11,11,3,c0000dd
+163-4,163,12,12,4,c990099
+163-5,163,13,13,5,c66ff33
+163-6,163,14,14,6,c99ffff
+163-7,163,15,15,7,c9999ff
+163-8,163,16,16,8,ccccccc
+163-9,163,17,17,9,caa0000
+163-10,163,18,18,10,cff4400
+163-11,163,19,19,11,cdd0000
+163-12,163,2,2,12,cdd0000
+163-13,163,20,20,13,c009900
+163-14,163,21,21,14,c66ff33
+163-15,163,22,22,15,c990099
+163-16,163,23,23,16,c9999ff
+163-17,163,24,24,17,c000000
+163-18,163,25,25,18,c0000dd
+163-19,163,3,3,19,ccccccc
+163-20,163,4,4,20,cff6600
+163-21,163,5,5,21,cff4400
+163-22,163,6,6,22,cffcc00
+163-23,163,7,7,23,cff66ff
+163-24,163,8,8,24,cffffcc
+163-25,163,9,9,25,cffff00
+163-26,163,?,Not known,26,cffffff
+163-27,163,N/A,Not Applicable,27,c000000
+165-0,165,0,absent,0,c990099
+165-1,165,1,present,1,c000000
+165-2,165,?,Not known,2,cff66ff
+165-3,165,N/A,Not Applicable,3,ccccccc
+166-0,166,0,absent,0,c990099
+166-1,166,1,present,1,c000000
+166-2,166,?,Not known,2,cff66ff
+166-3,166,N/A,Not Applicable,3,ccccccc
+167-0,167,0,absent,0,c990099
+167-1,167,1,present,1,c000000
+167-2,167,?,Not known,2,cff66ff
+167-3,167,N/A,Not Applicable,3,ccccccc
+168-0,168,0,absent,0,c990099
+168-1,168,1,present,1,c000000
+168-2,168,?,Not known,2,cff66ff
+168-3,168,N/A,Not Applicable,3,ccccccc
+169-0,169,0,absent,0,c990099
+169-1,169,1,present,1,c000000
+169-2,169,?,Not known,2,cff66ff
+169-3,169,N/A,Not Applicable,3,ccccccc
+170-0,170,0,absent,0,c990099
+170-1,170,1,present,1,c000000
+170-2,170,?,Not known,2,cff66ff
+170-3,170,N/A,Not Applicable,3,ccccccc
+171-0,171,0,absent,0,c990099
+171-1,171,1,present,1,c000000
+171-2,171,?,Not known,2,cff66ff
+171-3,171,N/A,Not Applicable,3,ccccccc
+172-0,172,0,absent,0,c990099
+172-1,172,1,present,1,c000000
+172-2,172,?,Not known,2,cff66ff
+172-3,172,N/A,Not Applicable,3,ccccccc
+173-0,173,0,absent,0,c990099
+173-1,173,1,present,1,c000000
+173-2,173,?,Not known,2,cff66ff
+173-3,173,N/A,Not Applicable,3,ccccccc
+174-0,174,0,absent,0,c990099
+174-1,174,1,present,1,c000000
+174-2,174,?,Not known,2,cff66ff
+174-3,174,N/A,Not Applicable,3,ccccccc
+175-0,175,0,absent,0,c990099
+175-1,175,1,present,1,c000000
+175-2,175,?,Not known,2,cff66ff
+175-3,175,N/A,Not Applicable,3,ccccccc
+176-0,176,0,absent,0,c990099
+176-1,176,1,present,1,c000000
+176-2,176,?,Not known,2,cff66ff
+176-3,176,N/A,Not Applicable,3,ccccccc
+177-0,177,0,absent,0,c990099
+177-1,177,1,present,1,c000000
+177-2,177,?,Not known,2,cff66ff
+177-3,177,N/A,Not Applicable,3,ccccccc
+178-0,178,0,absent,0,c990099
+178-1,178,1,present,1,c000000
+178-2,178,?,Not known,2,cff66ff
+178-3,178,N/A,Not Applicable,3,ccccccc
+179-0,179,0,absent,0,c990099
+179-1,179,1,present,1,c000000
+179-2,179,?,Not known,2,cff66ff
+179-3,179,N/A,Not Applicable,3,ccccccc
+181-0,181,0,absent,0,c990099
+181-1,181,1,present,1,c000000
+181-2,181,?,Not known,2,cff66ff
+181-3,181,N/A,Not Applicable,3,ccccccc
+182-0,182,0,absent,0,c990099
+182-1,182,1,present,1,c000000
+182-2,182,?,Not known,2,cff66ff
+182-3,182,N/A,Not Applicable,3,ccccccc
+183-0,183,0,absent,0,c990099
+183-1,183,1,present,1,c000000
+183-2,183,?,Not known,2,cff66ff
+183-3,183,N/A,Not Applicable,3,ccccccc
+184-0,184,0,absent,0,c990099
+184-1,184,1,present,1,c000000
+184-2,184,?,Not known,2,cff66ff
+184-3,184,N/A,Not Applicable,3,ccccccc
+185-0,185,0,absent,0,c990099
+185-1,185,1,present,1,c000000
+185-2,185,?,Not known,2,cff66ff
+185-3,185,N/A,Not Applicable,3,ccccccc
+186-0,186,0,absent,0,c990099
+186-1,186,1,present,1,c000000
+186-2,186,?,Not known,2,cff66ff
+186-3,186,N/A,Not Applicable,3,ccccccc
+187-0,187,0,absent,0,c990099
+187-1,187,1,present,1,c000000
+187-2,187,?,Not known,2,cff66ff
+187-3,187,N/A,Not Applicable,3,ccccccc
+188-0,188,0,absent,0,c990099
+188-1,188,1,present,1,c000000
+188-2,188,?,Not known,2,cff66ff
+188-3,188,N/A,Not Applicable,3,ccccccc
+191-0,191,0,absent,0,c990099
+191-1,191,1,present,1,c000000
+191-2,191,?,Not known,2,cff66ff
+191-3,191,N/A,Not Applicable,3,ccccccc
+192-0,192,0,absent,0,c990099
+192-1,192,1,present,1,c000000
+192-2,192,?,Not known,2,cff66ff
+192-3,192,N/A,Not Applicable,3,ccccccc
+193-0,193,0,there are no ANM,0,c990099
+193-1,193,1,ANM-N,1,c009900
+193-2,193,2,N-ANM,2,ccccccc
+193-3,193,3,Both,3,c99ffff
+193-4,193,?,Not known,4,cff4400
+193-5,193,N/A,Not Applicable,5,c000000
+194-0,194,0,absent,0,c990099
+194-1,194,1,present,1,c000000
+194-2,194,?,Not known,2,cff66ff
+194-3,194,N/A,Not Applicable,3,ccccccc
+195-0,195,0,absent,0,c990099
+195-1,195,1,present,1,c000000
+195-2,195,?,Not known,2,cff66ff
+195-3,195,N/A,Not Applicable,3,ccccccc
+196-0,196,0,absent,0,c990099
+196-1,196,1,present,1,c000000
+196-2,196,?,Not known,2,cff66ff
+196-3,196,N/A,Not Applicable,3,ccccccc
+197-0,197,0,absent,0,c990099
+197-1,197,1,present,1,c000000
+197-2,197,?,Not known,2,cff66ff
+197-3,197,N/A,Not Applicable,3,ccccccc
+198-0,198,0,absent,0,c990099
+198-1,198,1,present,1,c000000
+198-2,198,?,Not known,2,cff66ff
+198-3,198,N/A,Not Applicable,3,ccccccc
+199-0,199,0,absent,0,c990099
+199-1,199,1,present,1,c000000
+199-2,199,?,Not known,2,cff66ff
+199-3,199,N/A,Not Applicable,3,ccccccc
+200-0,200,0,absent,0,c990099
+200-1,200,1,present,1,c000000
+200-2,200,?,Not known,2,cff66ff
+200-3,200,N/A,Not Applicable,3,ccccccc
+202-0,202,0,absent,0,c990099
+202-1,202,1,present,1,c000000
+202-2,202,?,Not known,2,cff66ff
+202-3,202,N/A,Not Applicable,3,ccccccc
+203-0,203,1,Dem-N,0,c000000
+203-1,203,2,N-Dem,1,c99ffff
+203-2,203,3,both,2,c66ff33
+203-3,203,?,Not known,3,cff66ff
+203-4,203,N/A,Not Applicable,4,cdd0000
+204-0,204,0,absent,0,c990099
+204-1,204,1,present,1,c000000
+204-2,204,?,Not known,2,cff66ff
+204-3,204,N/A,Not Applicable,3,ccccccc
+205-0,205,0,absent,0,c990099
+205-1,205,1,present,1,c000000
+205-2,205,?,Not known,2,cff66ff
+205-3,205,N/A,Not Applicable,3,ccccccc
+206-0,206,0,absent,0,c990099
+206-1,206,1,present,1,c000000
+206-2,206,?,Not known,2,cff66ff
+206-3,206,N/A,Not Applicable,3,ccccccc
+207-0,207,0,absent,0,c990099
+207-1,207,1,present,1,c000000
+207-2,207,?,Not known,2,cff66ff
+207-3,207,N/A,Not Applicable,3,ccccccc
+208-0,208,0,absent,0,c990099
+208-1,208,1,present,1,c000000
+208-2,208,?,Not known,2,cff66ff
+208-3,208,N/A,Not Applicable,3,ccccccc
+209-0,209,0,absent,0,c990099
+209-1,209,1,present,1,c000000
+209-2,209,?,Not known,2,cff66ff
+209-3,209,N/A,Not Applicable,3,ccccccc
+210-0,210,0,absent,0,c990099
+210-1,210,1,present,1,c000000
+210-2,210,?,Not known,2,cff66ff
+210-3,210,N/A,Not Applicable,3,ccccccc
+211-0,211,0,absent,0,c990099
+211-1,211,1,present,1,c000000
+211-2,211,?,Not known,2,cff66ff
+211-3,211,N/A,Not Applicable,3,ccccccc
+212-0,212,0,absent,0,c990099
+212-1,212,1,present,1,c000000
+212-2,212,?,Not known,2,cff66ff
+212-3,212,N/A,Not Applicable,3,ccccccc
+213-0,213,0,absent,0,c990099
+213-1,213,1,present,1,c000000
+213-2,213,?,Not known,2,cff66ff
+213-3,213,N/A,Not Applicable,3,ccccccc
+214-0,214,0,absent,0,c990099
+214-1,214,1,present,1,c000000
+214-2,214,?,Not known,2,cff66ff
+214-3,214,N/A,Not Applicable,3,ccccccc
+215-0,215,0,absent,0,c990099
+215-1,215,1,present,1,c000000
+215-2,215,?,Not known,2,cff66ff
+215-3,215,N/A,Not Applicable,3,ccccccc
+216-0,216,0,absent,0,c990099
+216-1,216,1,present,1,c000000
+216-2,216,?,Not known,2,cff66ff
+216-3,216,N/A,Not Applicable,3,ccccccc
+217-0,217,0,absent,0,c990099
+217-1,217,1,present,1,c000000
+217-2,217,?,Not known,2,cff66ff
+217-3,217,N/A,Not Applicable,3,ccccccc
+218-0,218,0,absent,0,c990099
+218-1,218,1,present,1,c000000
+218-2,218,?,Not known,2,cff66ff
+218-3,218,N/A,Not Applicable,3,ccccccc
+219-0,219,0,absent,0,c990099
+219-1,219,1,present,1,c000000
+219-2,219,?,Not known,2,cff66ff
+219-3,219,N/A,Not Applicable,3,ccccccc
+220-0,220,0,absent,0,c990099
+220-1,220,1,present,1,c000000
+220-2,220,?,Not known,2,cff66ff
+220-3,220,N/A,Not Applicable,3,ccccccc
+221-0,221,0,absent,0,c990099
+221-1,221,1,present,1,c000000
+221-2,221,?,Not known,2,cff66ff
+221-3,221,N/A,Not Applicable,3,ccccccc
+222-0,222,0,absent,0,c990099
+222-1,222,1,present,1,c000000
+222-2,222,?,Not known,2,cff66ff
+222-3,222,N/A,Not Applicable,3,ccccccc
+223-0,223,0,absent,0,c990099
+223-1,223,1,present,1,c000000
+223-2,223,?,Not known,2,cff66ff
+223-3,223,N/A,Not Applicable,3,ccccccc
+224-0,224,0,absent,0,c990099
+224-1,224,1,present,1,c000000
+224-2,224,?,Not known,2,cff66ff
+224-3,224,N/A,Not Applicable,3,ccccccc
+225-0,225,0,absent,0,c990099
+225-1,225,1,present,1,c000000
+225-2,225,?,Not known,2,cff66ff
+225-3,225,N/A,Not Applicable,3,ccccccc
+226-0,226,0,absent,0,c990099
+226-1,226,1,present,1,c000000
+226-2,226,?,Not known,2,cff66ff
+226-3,226,N/A,Not Applicable,3,ccccccc
+227-0,227,0,absent,0,c990099
+227-1,227,1,present,1,c000000
+227-2,227,?,Not known,2,cff66ff
+227-3,227,N/A,Not Applicable,3,ccccccc
+228-0,228,0,absent,0,c990099
+228-1,228,1,present,1,c000000
+228-2,228,?,Not known,2,cff66ff
+228-3,228,N/A,Not Applicable,3,ccccccc
+229-0,229,0,absent,0,c990099
+229-1,229,1,present,1,c000000
+229-2,229,?,Not known,2,cff66ff
+229-3,229,N/A,Not Applicable,3,ccccccc
+230-0,230,0,absent,0,c990099
+230-1,230,1,present,1,c000000
+230-2,230,?,Not known,2,cff66ff
+230-3,230,N/A,Not Applicable,3,ccccccc
+231-0,231,0,absent,0,c990099
+231-1,231,1,present,1,c000000
+231-2,231,?,Not known,2,cff66ff
+231-3,231,N/A,Not Applicable,3,ccccccc
+232-0,232,0,absent,0,c990099
+232-1,232,1,present,1,c000000
+232-2,232,?,Not known,2,cff66ff
+232-3,232,N/A,Not Applicable,3,ccccccc
+234-0,234,0,absent,0,c990099
+234-1,234,1,present,1,c000000
+234-2,234,?,Not known,2,cff66ff
+234-3,234,N/A,Not Applicable,3,ccccccc
+235-0,235,0,absent,0,c990099
+235-1,235,1,present,1,c000000
+235-2,235,?,Not known,2,cff66ff
+235-3,235,N/A,Not Applicable,3,ccccccc
+236-0,236,0,absent,0,c990099
+236-1,236,1,present,1,c000000
+236-2,236,?,Not known,2,cff66ff
+236-3,236,N/A,Not Applicable,3,ccccccc
+237-0,237,0,absent,0,c990099
+237-1,237,1,present,1,c000000
+237-2,237,?,Not known,2,cff66ff
+237-3,237,N/A,Not Applicable,3,ccccccc
+238-0,238,0,absent,0,c990099
+238-1,238,1,present,1,c000000
+238-2,238,?,Not known,2,cff66ff
+238-3,238,N/A,Not Applicable,3,ccccccc
+239-0,239,0,absent,0,c990099
+239-1,239,1,present,1,c000000
+239-2,239,?,Not known,2,cff66ff
+239-3,239,N/A,Not Applicable,3,ccccccc
+240-0,240,0,absent,0,c990099
+240-1,240,1,present,1,c000000
+240-2,240,?,Not known,2,cff66ff
+240-3,240,N/A,Not Applicable,3,ccccccc
+241-0,241,0,absent,0,c990099
+241-1,241,1,present,1,c000000
+241-2,241,?,Not known,2,cff66ff
+241-3,241,N/A,Not Applicable,3,ccccccc
+242-0,242,0,absent,0,c990099
+242-1,242,1,present,1,c000000
+242-2,242,?,Not known,2,cff66ff
+242-3,242,N/A,Not Applicable,3,ccccccc
+243-0,243,0,absent,0,c990099
+243-1,243,1,present,1,c000000
+243-2,243,?,Not known,2,cff66ff
+243-3,243,N/A,Not Applicable,3,ccccccc
+244-0,244,0,absent,0,c990099
+244-1,244,1,present,1,c000000
+244-2,244,?,Not known,2,cff66ff
+244-3,244,N/A,Not Applicable,3,ccccccc
+245-0,245,0,absent,0,c990099
+245-1,245,1,present,1,c000000
+245-2,245,?,Not known,2,cff66ff
+245-3,245,N/A,Not Applicable,3,ccccccc
+246-0,246,0,absent,0,c990099
+246-1,246,1,present,1,c000000
+246-2,246,?,Not known,2,cff66ff
+246-3,246,N/A,Not Applicable,3,ccccccc
+247-0,247,0,absent,0,c990099
+247-1,247,1,present,1,c000000
+247-2,247,?,Not known,2,cff66ff
+247-3,247,N/A,Not Applicable,3,ccccccc
+248-0,248,0,absent,0,c990099
+248-1,248,1,present,1,c000000
+248-2,248,?,Not known,2,cff66ff
+248-3,248,N/A,Not Applicable,3,ccccccc
+249-0,249,0,absent,0,c990099
+249-1,249,1,present,1,c000000
+249-2,249,?,Not known,2,cff66ff
+249-3,249,N/A,Not Applicable,3,ccccccc
+250-0,250,0,absent,0,c990099
+250-1,250,1,present,1,c000000
+250-2,250,?,Not known,2,cff66ff
+250-3,250,N/A,Not Applicable,3,ccccccc
+251-0,251,0,absent,0,c990099
+251-1,251,1,present,1,c000000
+251-2,251,?,Not known,2,cff66ff
+251-3,251,N/A,Not Applicable,3,ccccccc
+252-0,252,0,absent,0,c990099
+252-1,252,1,present,1,c000000
+252-2,252,?,Not known,2,cff66ff
+252-3,252,N/A,Not Applicable,3,ccccccc
+253-0,253,0,absent,0,c990099
+253-1,253,1,present,1,c000000
+253-2,253,?,Not known,2,cff66ff
+253-3,253,N/A,Not Applicable,3,ccccccc
+254-0,254,0,absent,0,c990099
+254-1,254,1,present,1,c000000
+254-2,254,?,Not known,2,cff66ff
+254-3,254,N/A,Not Applicable,3,ccccccc
+255-0,255,0,absent,0,c990099
+255-1,255,1,present,1,c000000
+255-2,255,?,Not known,2,cff66ff
+255-3,255,N/A,Not Applicable,3,ccccccc
+256-0,256,0,absent,0,c990099
+256-1,256,1,present,1,c000000
+256-2,256,?,Not known,2,cff66ff
+256-3,256,N/A,Not Applicable,3,ccccccc
+257-0,257,0,absent,0,c990099
+257-1,257,1,present,1,c000000
+257-2,257,?,Not known,2,cff66ff
+257-3,257,N/A,Not Applicable,3,ccccccc
+258-0,258,0,absent,0,c990099
+258-1,258,1,present,1,c000000
+258-2,258,?,Not known,2,cff66ff
+258-3,258,N/A,Not Applicable,3,ccccccc
+259-0,259,0,absent,0,c990099
+259-1,259,1,present,1,c000000
+259-2,259,?,Not known,2,cff66ff
+259-3,259,N/A,Not Applicable,3,ccccccc
+260-0,260,0,absent,0,c990099
+260-1,260,1,present,1,c000000
+260-2,260,?,Not known,2,cff66ff
+260-3,260,N/A,Not Applicable,3,ccccccc
+261-0,261,0,absent,0,c990099
+261-1,261,1,present,1,c000000
+261-2,261,?,Not known,2,cff66ff
+261-3,261,N/A,Not Applicable,3,ccccccc
+262-0,262,0,absent,0,c990099
+262-1,262,1,present,1,c000000
+262-2,262,?,Not known,2,cff66ff
+262-3,262,N/A,Not Applicable,3,ccccccc
+263-0,263,0,absent,0,c990099
+263-1,263,1,present,1,c000000
+263-2,263,?,Not known,2,cff66ff
+263-3,263,N/A,Not Applicable,3,ccccccc
+264-0,264,0,absent,0,c990099
+264-1,264,1,present,1,c000000
+264-2,264,?,Not known,2,cff66ff
+264-3,264,N/A,Not Applicable,3,ccccccc
+265-0,265,0,absent,0,c990099
+265-1,265,1,present,1,c000000
+265-2,265,?,Not known,2,cff66ff
+265-3,265,N/A,Not Applicable,3,ccccccc
+266-0,266,0,absent,0,c990099
+266-1,266,1,present,1,c000000
+266-2,266,?,Not known,2,cff66ff
+266-3,266,N/A,Not Applicable,3,ccccccc
+267-0,267,0,absent,0,c990099
+267-1,267,1,present,1,c000000
+267-2,267,?,Not known,2,cff66ff
+267-3,267,N/A,Not Applicable,3,ccccccc
+268-0,268,0,absent,0,c990099
+268-1,268,1,present,1,c000000
+268-2,268,?,Not known,2,cff66ff
+268-3,268,N/A,Not Applicable,3,ccccccc
+269-0,269,0,absent,0,c990099
+269-1,269,1,present,1,c000000
+269-2,269,?,Not known,2,cff66ff
+269-3,269,N/A,Not Applicable,3,ccccccc
+270-0,270,0,absent,0,c990099
+270-1,270,1,present,1,c000000
+270-2,270,?,Not known,2,cff66ff
+270-3,270,N/A,Not Applicable,3,ccccccc
+271-0,271,0,absent,0,c990099
+271-1,271,1,present,1,c000000
+271-2,271,?,Not known,2,cff66ff
+271-3,271,N/A,Not Applicable,3,ccccccc
+272-0,272,0,absent,0,c990099
+272-1,272,1,present,1,c000000
+272-2,272,?,Not known,2,cff66ff
+272-3,272,N/A,Not Applicable,3,ccccccc
+273-0,273,0,absent,0,c990099
+273-1,273,1,present,1,c000000
+273-2,273,?,Not known,2,cff66ff
+273-3,273,N/A,Not Applicable,3,ccccccc
+274-0,274,0,absent,0,c990099
+274-1,274,1,present,1,c000000
+274-2,274,?,Not known,2,cff66ff
+274-3,274,N/A,Not Applicable,3,ccccccc
+275-0,275,0,absent,0,c990099
+275-1,275,1,present,1,c000000
+275-2,275,?,Not known,2,cff66ff
+275-3,275,N/A,Not Applicable,3,ccccccc
+276-0,276,0,absent,0,c990099
+276-1,276,1,present,1,c000000
+276-2,276,?,Not known,2,cff66ff
+276-3,276,N/A,Not Applicable,3,ccccccc
+277-0,277,0,absent,0,c990099
+277-1,277,1,present,1,c000000
+277-2,277,?,Not known,2,cff66ff
+277-3,277,N/A,Not Applicable,3,ccccccc
+278-0,278,0,absent,0,c990099
+278-1,278,1,present,1,c000000
+278-2,278,?,Not known,2,cff66ff
+278-3,278,N/A,Not Applicable,3,ccccccc
+279-0,279,0,absent,0,c990099
+279-1,279,1,present,1,c000000
+279-2,279,?,Not known,2,cff66ff
+279-3,279,N/A,Not Applicable,3,ccccccc
+280-0,280,0,absent,0,c990099
+280-1,280,1,present,1,c000000
+280-2,280,?,Not known,2,cff66ff
+280-3,280,N/A,Not Applicable,3,ccccccc
+281-0,281,0,absent,0,c990099
+281-1,281,1,present,1,c000000
+281-2,281,?,Not known,2,cff66ff
+281-3,281,N/A,Not Applicable,3,ccccccc
+282-0,282,0,absent,0,c990099
+282-1,282,1,present,1,c000000
+282-2,282,?,Not known,2,cff66ff
+282-3,282,N/A,Not Applicable,3,ccccccc
+283-0,283,0,absent,0,c990099
+283-1,283,1,present,1,c000000
+283-2,283,?,Not known,2,cff66ff
+283-3,283,N/A,Not Applicable,3,ccccccc
+284-0,284,0,absent,0,c990099
+284-1,284,1,present,1,c000000
+284-2,284,?,Not known,2,cff66ff
+284-3,284,N/A,Not Applicable,3,ccccccc
+285-0,285,0,absent,0,c990099
+285-1,285,1,present,1,c000000
+285-2,285,?,Not known,2,cff66ff
+285-3,285,N/A,Not Applicable,3,ccccccc
+286-0,286,0,absent,0,c990099
+286-1,286,1,present,1,c000000
+286-2,286,?,Not known,2,cff66ff
+286-3,286,N/A,Not Applicable,3,ccccccc
+287-0,287,0,absent,0,c990099
+287-1,287,1,present,1,c000000
+287-2,287,?,Not known,2,cff66ff
+287-3,287,N/A,Not Applicable,3,ccccccc
+288-0,288,0,absent,0,c990099
+288-1,288,1,present,1,c000000
+288-2,288,?,Not known,2,cff66ff
+288-3,288,N/A,Not Applicable,3,ccccccc
+289-0,289,0,absent,0,c990099
+289-1,289,1,present,1,c000000
+289-2,289,?,Not known,2,cff66ff
+289-3,289,N/A,Not Applicable,3,ccccccc
+290-0,290,0,absent,0,c990099
+290-1,290,1,present,1,c000000
+290-2,290,?,Not known,2,cff66ff
+290-3,290,N/A,Not Applicable,3,ccccccc
+291-0,291,0,absent,0,c990099
+291-1,291,1,present,1,c000000
+291-2,291,?,Not known,2,cff66ff
+291-3,291,N/A,Not Applicable,3,ccccccc
+292-0,292,0,absent,0,c990099
+292-1,292,1,present,1,c000000
+292-2,292,?,Not known,2,cff66ff
+292-3,292,N/A,Not Applicable,3,ccccccc
+293-0,293,0,absent,0,c990099
+293-1,293,1,present,1,c000000
+293-2,293,?,Not known,2,cff66ff
+293-3,293,N/A,Not Applicable,3,ccccccc
+294-0,294,0,absent,0,c990099
+294-1,294,1,present,1,c000000
+294-2,294,?,Not known,2,cff66ff
+294-3,294,N/A,Not Applicable,3,ccccccc
+295-0,295,0,absent,0,c990099
+295-1,295,1,present,1,c000000
+295-2,295,?,Not known,2,cff66ff
+295-3,295,N/A,Not Applicable,3,ccccccc
+296-0,296,0,absent,0,c990099
+296-1,296,1,present,1,c000000
+296-2,296,?,Not known,2,cff66ff
+296-3,296,N/A,Not Applicable,3,ccccccc
+297-0,297,0,absent,0,c990099
+297-1,297,1,present,1,c000000
+297-2,297,?,Not known,2,cff66ff
+297-3,297,N/A,Not Applicable,3,ccccccc
