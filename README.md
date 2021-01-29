@@ -7,7 +7,7 @@ Cite the source dataset as
 
 Dataset on Typological Features, collected 2013-2014 in the Language and Cognition Department at the Max Planck Institute for Psycholinguistics, Max-Planck Gesellschaft, and a European Research Council's Advanced Grant (269484 "INTERACT") to Stephen C. Levinson.
 
-This dataset is licensed under a http://creativecommons.org/licenses/by-nc-nd/2.0/de/deed.en license
+This dataset is licensed under a http://creativecommons.org/licenses/by-nc/2.0/de/deed.en license
 
 ## Notes
 

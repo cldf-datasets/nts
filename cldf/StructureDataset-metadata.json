@@ -10,7 +10,7 @@
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#StructureDataset",
     "dc:description": "Dataset on Typological Features, collected 2013-2014 in the Language and Cognition Department at the Max Planck Institute for Psycholinguistics, Max-Planck Gesellschaft, and a European Research Council's Advanced Grant (269484 \"INTERACT\") to Stephen C. Levinson.",
     "dc:isVersionOf": null,
-    "dc:license": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+    "dc:license": "https://creativecommons.org/licenses/by-nc/2.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "Nijmegen Typological Survey",
@@ -20,7 +20,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/cldf-datasets/nts",
-            "dc:created": "041a12b"
+            "dc:created": "25448a7"
         },
         {
             "rdf:type": "prov:Entity",
