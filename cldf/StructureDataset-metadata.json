@@ -20,7 +20,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/cldf-datasets/nts",
-            "dc:created": "f3ad4dc"
+            "dc:created": "041a12b"
         },
         {
             "rdf:type": "prov:Entity",

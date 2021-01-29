@@ -26,8 +26,12 @@ The original field *comment* of table *ntsvalue* contains several erroneous enco
 
 Name | GitHub user | Description | Role
 ---  | ---         | ---         | ---
+Harald Hammarström |  | Editor | Author
+Ger Reesink |  | Contributor | Author
+Michael Dunn |  | Contributor | Author
+Ruth Singer |  | Contributor | Author
 Hedvig Skirgård |  | Editor | Author
 Suzanne van der Meer |  | Editor |  Author
-Harald Hammarström |  | Editor | Author
+Stephen C. Levinson |  | Director |  Author
 
 
