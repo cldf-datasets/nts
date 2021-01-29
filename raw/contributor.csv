@@ -1,0 +1,4 @@
+pk,jsondata,polymorphic_type,id,name,description,markup_description,url,email,address
+1,{},base,Harald Hammarstrom,Harald Hammarstrom,,,,harald.hammarstroem@mpi.nl,
+2,{},base,Suzanne van der Meer,Suzanne van der Meer,,,,suzanne.vandermeer@mpi.nl,
+3,{},base,Hedvig Skirgard,Hedvig Skirgard,,,,hedvig.skirgard@mpi.nl,

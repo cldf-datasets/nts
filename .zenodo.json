@@ -1,0 +1,42 @@
+{
+    "title": "Nijmegen Typological Survey",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "Harald Hammarstr\u00f6m"
+        },
+        {
+            "name": "Ger Reesink"
+        },
+        {
+            "name": "Michael Dunn"
+        },
+        {
+            "name": "Ruth Singer"
+        },
+        {
+            "name": "Hedvig Skirg\u00e5rd"
+        },
+        {
+            "name": "Suzanne van der Meer"
+        },
+        {
+            "name": "Stephen C. Levinson"
+        }
+    ],
+    "contributors": [],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Harald Hammarstr\u00f6m, Ger Reesink, Michael Dunn, Ruth Singer, Hedvig Skirg\u00e5rd, Suzanne van der Meer, Stephen C. Levinson. 2017. Nijmegen Typological Survey</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-NC-ND-2.0"
+    }
+}

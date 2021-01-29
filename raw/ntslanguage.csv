@@ -1,0 +1,363 @@
+macroarea,pk,representation,family_pk
+Africa,5,231,5
+Africa,6,250,6
+Africa,7,188,7
+Africa,12,115,10
+Africa,14,111,7
+Africa,18,94,7
+Africa,22,106,15
+Africa,25,115,7
+Africa,27,146,17
+Africa,30,262,7
+Africa,33,152,18
+Africa,46,142,6
+Africa,47,70,23
+Africa,49,230,6
+Africa,51,155,7
+Africa,55,133,7
+Africa,58,263,7
+Africa,65,122,30
+Africa,66,116,31
+Africa,76,239,7
+Africa,86,179,5
+Africa,88,129,17
+Africa,90,159,17
+Africa,91,270,7
+Africa,92,233,6
+Africa,94,241,7
+Africa,97,149,50
+Africa,101,244,7
+Africa,114,171,7
+Africa,116,106,5
+Africa,125,160,42
+Africa,127,244,6
+Africa,129,266,7
+Africa,130,58,5
+Africa,131,19,5
+Africa,140,239,7
+Africa,147,254,6
+Africa,148,270,7
+Africa,150,252,7
+Africa,151,253,43
+Africa,153,219,5
+Africa,154,163,10
+Africa,157,177,7
+Africa,158,244,7
+Africa,160,257,7
+Africa,161,372,5
+Africa,164,169,5
+Africa,165,105,17
+Africa,170,94,7
+Africa,171,73,45
+Africa,172,166,7
+Africa,173,131,5
+Africa,175,112,7
+Africa,180,265,7
+Africa,183,242,
+Africa,188,268,7
+Africa,191,12,7
+Africa,194,173,7
+Africa,197,271,7
+Africa,200,131,5
+Africa,201,141,7
+Africa,204,212,7
+Africa,207,170,7
+Africa,208,93,7
+Africa,212,152,42
+Africa,213,198,6
+Africa,217,252,7
+Africa,218,216,5
+Africa,219,268,7
+Africa,220,186,17
+Africa,229,187,7
+Africa,238,255,7
+Africa,239,139,5
+Africa,241,169,56
+Africa,242,126,
+Africa,245,249,7
+Africa,249,249,7
+Africa,252,240,7
+Africa,258,236,7
+Africa,265,155,5
+Africa,270,260,7
+Africa,274,161,5
+Africa,276,197,7
+Africa,278,171,7
+Africa,281,230,6
+Africa,285,163,5
+Africa,286,213,5
+Africa,287,133,56
+Africa,291,249,6
+Africa,295,231,5
+Africa,299,110,61
+Africa,306,150,4
+Africa,308,122,7
+Africa,312,129,7
+Africa,313,125,7
+Africa,315,58,7
+Africa,316,257,7
+Africa,318,263,7
+Africa,319,169,5
+Africa,322,248,6
+Africa,323,246,6
+Africa,324,174,6
+Africa,325,144,5
+Africa,343,173,64
+Africa,347,213,7
+Africa,352,169,45
+Africa,355,155,56
+Africa,361,154,68
+Australia,1,140,1
+Australia,16,153,12
+Australia,17,160,13
+Australia,19,159,14
+Australia,26,160,16
+Australia,43,155,9
+Australia,45,151,22
+Australia,62,145,9
+Australia,84,158,34
+Australia,93,156,16
+Australia,105,154,9
+Australia,106,159,9
+Australia,108,152,39
+Australia,149,160,34
+Australia,163,158,34
+Australia,227,158,54
+Australia,255,160,58
+Australia,257,152,9
+Australia,267,148,16
+Australia,272,160,9
+Australia,289,145,9
+Australia,294,158,9
+Australia,348,159,
+Australia,354,125,9
+Australia,360,156,67
+Eurasia,52,150,25
+Eurasia,54,139,27
+Eurasia,64,83,29
+Eurasia,74,135,27
+Eurasia,85,95,35
+Eurasia,89,137,27
+Eurasia,111,129,27
+Eurasia,113,265,41
+Eurasia,136,131,27
+Eurasia,169,135,27
+Eurasia,185,160,35
+Eurasia,198,151,41
+Eurasia,221,258,51
+Eurasia,236,262,35
+Eurasia,250,139,27
+Eurasia,259,153,4
+Eurasia,264,138,27
+Eurasia,271,139,27
+Eurasia,300,132,27
+Eurasia,326,154,62
+Eurasia,350,152,65
+North America,68,12,8
+North America,73,121,8
+North America,210,130,8
+Papunesia,2,145,2
+Papunesia,3,148,3
+Papunesia,4,144,4
+Papunesia,8,160,4
+Papunesia,11,158,9
+Papunesia,13,148,11
+Papunesia,15,128,4
+Papunesia,20,160,11
+Papunesia,24,146,11
+Papunesia,28,113,4
+Papunesia,29,160,11
+Papunesia,32,144,4
+Papunesia,34,135,11
+Papunesia,35,149,11
+Papunesia,36,139,19
+Papunesia,37,157,
+Papunesia,38,160,4
+Papunesia,39,128,4
+Papunesia,40,148,20
+Papunesia,42,157,21
+Papunesia,44,159,4
+Papunesia,48,160,24
+Papunesia,50,140,4
+Papunesia,53,144,26
+Papunesia,56,97,4
+Papunesia,61,147,28
+Papunesia,63,157,11
+Papunesia,69,154,4
+Papunesia,70,155,26
+Papunesia,71,156,4
+Papunesia,72,115,4
+Papunesia,75,160,4
+Papunesia,77,148,21
+Papunesia,78,93,4
+Papunesia,80,158,11
+Papunesia,81,158,11
+Papunesia,82,158,32
+Papunesia,83,151,33
+Papunesia,87,150,36
+Papunesia,95,137,4
+Papunesia,96,120,4
+Papunesia,98,99,4
+Papunesia,99,158,37
+Papunesia,100,94,4
+Papunesia,102,93,4
+Papunesia,103,153,11
+Papunesia,104,154,38
+Papunesia,107,97,32
+Papunesia,109,146,40
+Papunesia,110,153,4
+Papunesia,112,145,4
+Papunesia,115,133,4
+Papunesia,117,147,11
+Papunesia,118,100,4
+Papunesia,119,160,4
+Papunesia,121,160,11
+Papunesia,122,160,11
+Papunesia,123,86,4
+Papunesia,126,101,4
+Papunesia,128,146,4
+Papunesia,132,159,
+Papunesia,133,99,4
+Papunesia,134,97,4
+Papunesia,137,102,4
+Papunesia,138,90,
+Papunesia,139,160,4
+Papunesia,141,143,4
+Papunesia,142,141,4
+Papunesia,143,128,4
+Papunesia,144,150,
+Papunesia,145,149,4
+Papunesia,146,152,26
+Papunesia,152,98,4
+Papunesia,155,147,4
+Papunesia,156,151,44
+Papunesia,159,160,
+Papunesia,162,154,4
+Papunesia,166,140,4
+Papunesia,168,160,4
+Papunesia,174,159,11
+Papunesia,176,143,46
+Papunesia,177,148,4
+Papunesia,178,143,4
+Papunesia,179,129,4
+Papunesia,181,145,47
+Papunesia,182,159,4
+Papunesia,184,137,4
+Papunesia,186,93,4
+Papunesia,187,155,48
+Papunesia,189,129,4
+Papunesia,190,153,21
+Papunesia,192,100,4
+Papunesia,193,138,4
+Papunesia,195,157,4
+Papunesia,196,155,49
+Papunesia,199,125,4
+Papunesia,202,157,4
+Papunesia,205,150,4
+Papunesia,206,124,4
+Papunesia,209,143,4
+Papunesia,215,160,4
+Papunesia,216,144,36
+Papunesia,222,158,11
+Papunesia,223,140,52
+Papunesia,224,156,4
+Papunesia,225,149,53
+Papunesia,226,159,11
+Papunesia,230,160,55
+Papunesia,231,97,4
+Papunesia,232,95,4
+Papunesia,233,159,4
+Papunesia,234,139,4
+Papunesia,235,153,
+Papunesia,237,145,4
+Papunesia,243,157,57
+Papunesia,244,101,4
+Papunesia,246,135,4
+Papunesia,247,155,4
+Papunesia,251,160,4
+Papunesia,254,147,36
+Papunesia,256,88,4
+Papunesia,260,102,
+Papunesia,263,152,
+Papunesia,266,157,4
+Papunesia,268,159,4
+Papunesia,269,85,4
+Papunesia,275,159,59
+Papunesia,277,151,4
+Papunesia,279,159,60
+Papunesia,282,147,4
+Papunesia,283,59,4
+Papunesia,284,129,4
+Papunesia,290,160,36
+Papunesia,292,97,4
+Papunesia,293,154,11
+Papunesia,296,159,4
+Papunesia,297,139,4
+Papunesia,298,159,53
+Papunesia,301,155,11
+Papunesia,302,148,11
+Papunesia,303,153,28
+Papunesia,307,96,4
+Papunesia,309,159,4
+Papunesia,311,75,21
+Papunesia,314,156,
+Papunesia,317,97,4
+Papunesia,320,146,60
+Papunesia,321,149,4
+Papunesia,328,154,4
+Papunesia,330,154,4
+Papunesia,331,93,33
+Papunesia,332,159,11
+Papunesia,333,140,4
+Papunesia,334,145,11
+Papunesia,335,160,
+Papunesia,336,143,36
+Papunesia,340,149,4
+Papunesia,341,159,11
+Papunesia,342,106,4
+Papunesia,344,148,4
+Papunesia,345,141,11
+Papunesia,346,159,4
+Papunesia,349,101,4
+Papunesia,351,96,33
+Papunesia,356,100,4
+Papunesia,357,140,57
+Papunesia,358,125,4
+Papunesia,359,148,66
+Papunesia,362,101,
+South America,9,159,8
+South America,10,143,8
+South America,21,146,8
+South America,23,26,8
+South America,31,130,8
+South America,41,146,8
+South America,57,159,8
+South America,59,131,8
+South America,60,160,8
+South America,67,69,8
+South America,79,159,8
+South America,120,148,8
+South America,124,158,8
+South America,135,26,8
+South America,167,35,8
+South America,203,155,8
+South America,211,156,8
+South America,214,150,8
+South America,228,22,8
+South America,240,156,8
+South America,248,147,8
+South America,253,159,8
+South America,261,109,8
+South America,262,140,8
+South America,273,90,8
+South America,280,141,8
+South America,288,142,8
+South America,304,145,8
+South America,305,152,8
+South America,310,159,8
+South America,327,133,8
+South America,329,135,8
+South America,337,138,8
+South America,338,187,63
+South America,339,153,8
+South America,353,148,8

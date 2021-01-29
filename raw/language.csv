@@ -1,0 +1,363 @@
+pk,jsondata,polymorphic_type,id,name,description,markup_description,latitude,longitude
+1,{},custom,bvr,Burarra,,,-12.3061,134.365
+2,{},custom,roo,Rotokas,,,-5.94339,155.154
+3,{},custom,bvz,Bauzi,,,-2.44717,137.629
+4,{},custom,mnv,Rennell-Bellona,,,-11.6237,160.265
+5,{},custom,bva,Barain,,,11.1168,18.0764
+6,{},custom,mnk,Mandinka,,,12.8165,-15.6539
+7,{},custom,NOCODE_Nzadi,Nzadi,,,-4.102208,20.194462
+8,{},custom,mnb,Muna,,,-5.40419,122.541
+9,{},custom,gae,Guarequena,,,1.80835,-66.9225
+10,{},custom,yvt,Yavitero,,,9.8194,-67.4283
+11,{},custom,mwp,Kala Lagaw Ya,,,-10.6748,142.196
+12,{},custom,aue,=/Kx'au//'ein,,,-21.0554,21.1793
+13,{},custom,wms,Wambon,,,-5.44334,140.48
+14,{},custom,bqj,Banjal,,,12.5258,-16.4245
+15,{},custom,rtm,Rotuman,,,-12.5008,177.066
+16,{},custom,mwf,Murrinh-Patha,,,-14.7485,129.702
+17,{},custom,wmb,Wambaya,,,-17.496,135.683
+18,{},custom,kcf,Ukaan,,,7.59722,6.03933
+19,{},custom,mph,Maung,,,-11.8393,133.185
+20,{},custom,mpt,Mian,,,-4.70881,141.523
+21,{},custom,guc,Wayuu,,,10.2252,-71.8101
+22,{},custom,dim,Dime,,,6.20951,36.3329
+23,{},custom,NOCODE_Apolista,Apolista,,,-14.83,-68.66
+24,{},custom,wsk,Waskia,,,-4.57978,145.979
+25,{},custom,bxk,Lubukusu,,,0.68043,34.7719
+26,{},custom,gup,Gunwinggu,,,-12.3398,133.358
+27,{},custom,bxb,Belanda Bor,,,6.6503,27.8232
+28,{},custom,trv,Taroko,,,23.9032,121.358
+29,{},custom,nbq,Nggem,,,-3.62735,139.011
+30,{},custom,pmb,Pambia,,,3.739,26.61
+31,{},custom,ter,Tereno,,,-20.6614,-56.0329
+32,{},custom,tet,Tetum,,,-9.11217,125.528
+33,{},custom,teu,So,,,2.58367,34.7595
+34,{},custom,sll,Salt-Yui,,,-6.26519,145.021
+35,{},custom,sue,Suena,,,-7.76339,147.534
+36,{},custom,zrs,Mairasi,,,-3.4511,134.071
+37,{},custom,sua,Sulka,,,-5.03471,151.891
+38,{},custom,nee,Kumak,,,-20.4035,164.193
+39,{},custom,uli,Ulithian,,,10.0,140.0
+40,{},custom,abt,Ambulas,,,-3.7801,143.059
+41,{},custom,ycn,Yucuna,,,-0.76075,-71.0033
+42,{},custom,abz,Abui,,,-8.31058,124.588
+43,{},custom,bdy,Bandjalang,,,-28.3458,152.859
+44,{},custom,mee,Mengen,,,-5.47036,151.373
+45,{},custom,mec,Mara,,,-14.7927,134.865
+46,{},custom,men,Mende,,,7.90935,-10.9926
+47,{},custom,mei,Midob,,,14.789,27.2236
+48,{},custom,mej,Meyah,,,-1.18016,133.618
+49,{},custom,mev,Mann,,,7.04616,-8.86405
+50,{},custom,sjr,Siar-Lak,,,-4.62059,152.892
+51,{},custom,akp,Siwu,,,7.23811,0.44362
+52,{},custom,akj,Aka-Jeru,,,13.1525,92.9504
+53,{},custom,bon,Bine,,,-9.08879,142.893
+54,{},custom,tha,Thai,,,14.192,100.671
+55,{},custom,aka,Akan,,,6.34756,-1.33254
+56,{},custom,sgz,Sursurunga,,,-3.99078,152.768
+57,{},custom,apu,Apurinã,,,-8.21692,-66.7714
+58,{},custom,brm,Barambu,,,3.34642,26.861
+59,{},custom,bwi,Baniwa,,,2.17859,-67.7704
+60,{},custom,brg,Baure,,,-13.1278,-64.1838
+61,{},custom,ape,Bukiyip,,,-3.47169,143.111
+62,{},custom,jao,Yanyuwa,,,-15.7621,136.055
+63,{},custom,kgq,Kamoro,,,-4.30433,135.883
+64,{},custom,oon,Önge,,,10.6926,92.4707
+65,{},custom,nkx,Nkoroo,,,4.57641,7.45802
+66,{},custom,kgo,Krongo,,,10.514,30.003
+67,{},custom,gqn,Guana (Brazil),,,-19.1667,-54.0333
+68,{},custom,tnq,Taino,,,18.2836,-66.8042
+69,{},custom,tnp,Whitesands,,,-19.5019,169.381
+70,{},custom,ulk,Meriam,,,-9.59575,143.773
+71,{},custom,erg,Sie,,,-18.8181,169.166
+72,{},custom,cam,Cemuhî,,,-20.8489,165.13
+73,{},custom,cab,Garifuna,,,15.3529,-86.9091
+74,{},custom,gqu,Central Gelao-Qau,,,26.155438,106.16455
+75,{},custom,erk,South Efate,,,-17.7006,168.377
+76,{},custom,hhr,Keerak,,,12.3652,-16.6857
+77,{},custom,kyo,Kelon,,,-8.40688,124.429
+78,{},custom,sps,Saposa,,,-5.64103,154.732
+79,{},custom,tae,Tariana,,,0.440205,-68.9042
+80,{},custom,spl,Selepet,,,-6.03532,147.234
+81,{},custom,ygr,Hua,,,-6.32432,145.388
+82,{},custom,gcc,Mali,,,-4.71826,152.214
+83,{},custom,siw,Siwai,,,-6.6429,155.452
+84,{},custom,gcd,Ganggalida,,,-17.5446,139.426
+85,{},custom,eng,English,,,53.0,-1.0
+86,{},custom,sid,Sidaama,,,6.74176,38.3729
+87,{},custom,sim,Mende (Papua New Guinea),,,-3.67233,142.683
+88,{},custom,mas,Maasai,,,-3.1419,36.4573
+89,{},custom,lao,Lao,,,16.0726,104.568
+90,{},custom,laj,Lango,,,2.13867,33.0553
+91,{},custom,bkc,Baka (Cameroon),,,2.16013,13.7804
+92,{},custom,snk,Soninke,,,13.1273,-11.7178
+93,{},custom,aoi,Anindilyakwa,,,-13.999,136.641
+94,{},custom,snw,Selee,,,7.17462,0.42458
+95,{},custom,mad,Madurese,,,-7.0,113.0
+96,{},custom,NOCODE_Sisiqa,Sisiqa,,,-7.0,156.83
+97,{},custom,tbi,Gaahmg,,,11.4674,33.9797
+98,{},custom,rai,Ramoaaina,,,-4.17306,152.451
+99,{},custom,kbk,Grass Koiari,,,-9.51218,147.437
+100,{},custom,wuv,Wuvulu-Aua,,,-1.73938,142.851
+101,{},custom,ffm,Maasina Fulfulde,,,11.1324,-3.64763
+102,{},custom,uvl,Lote,,,-5.954,150.911
+103,{},custom,ssd,Siroi,,,-5.52893,145.994
+104,{},custom,kbv,Dera (Indonesia),,,-3.52309,140.947
+105,{},custom,djr,Djambarrpuyngu,,,-12.021,135.59
+106,{},custom,wrb,Warluwara,,,-22.2909,138.738
+107,{},custom,byx,Qaqet,,,-4.45258,151.702
+108,{},custom,wrk,Garawa,,,-17.4504,137.72014
+109,{},custom,imn,Imonda,,,-3.31228,141.171
+110,{},custom,fij,Fijian,,,-18.0,178.33
+111,{},custom,pcc,Bouyei,,,24.8484,106.187
+112,{},custom,ssb,Southern Sama,,,5.07546,119.38
+113,{},custom,fin,Finnish,,,64.7628,25.5577
+114,{},custom,oks,Oko,,,7.53908,6.15725
+115,{},custom,ceb,Cebuano,,,8.38799,124.367
+116,{},custom,dal,Dahalo,,,-2.1843,40.37
+117,{},custom,rwo,Rawa,,,-5.83155,145.937
+118,{},custom,mxm,Meramera,,,-4.97468,151.528
+119,{},custom,kkk,Kokota,,,-8.16481,159.191
+120,{},custom,not,Nomatsiguenga,,,-11.5349,-74.4371
+121,{},custom,kpr,Korafe-Yegha,,,-9.07,149.267
+122,{},custom,kpw,Kobon,,,-5.16446,144.46
+123,{},custom,nfl,Ayiwo,,,-10.2302,166.21
+124,{},custom,kpc,Curripaco,,,0.69618,-67.5028
+125,{},custom,mdx,Dizin,,,6.1405,35.5763
+126,{},custom,hla,Halia,,,-5.26603,154.662
+127,{},custom,goa,Guro,,,7.34954,-6.31154
+128,{},custom,smo,Samoan,,,-13.92,-171.83
+129,{},custom,gox,Gobu,,,5.01201,20.0194
+130,{},custom,rel,Rendille,,,2.27065,37.3608
+131,{},custom,gow,Gorowa,,,-4.23575,35.7996
+132,{},custom,blb,Bilua,,,-7.92388,156.663
+133,{},custom,mmx,Madak,,,-3.34342,151.967
+134,{},custom,sbc,Kele (Papua New Guinea),,,-2.09163,147.064
+135,{},custom,mmh,Mehináku,,,-12.5364,-53.521
+136,{},custom,mmd,Maonan,,,25.0169,108.024
+137,{},custom,puw,Puluwatese,,,6.69748,149.31
+138,{},custom,ata,Pele-Ata,,,-5.58045,151.05
+139,{},custom,mva,Manam,,,-4.07921,145.033
+140,{},custom,ish,Esan,,,6.25685,6.33917
+141,{},custom,mkj,Mokilese,,,6.65651,159.776
+142,{},custom,mak,Makasar,,,-5.65551,119.838
+143,{},custom,iai,Iaai,,,-20.6301,166.59
+144,{},custom,kol,Kol (Papua New Guinea),,,-5.21042,151.583
+145,{},custom,kos,Kosraean,,,5.5,163.0
+146,{},custom,tof,Gizrra,,,-9.183,142.804
+147,{},custom,tod,Toma,,,8.20383,-9.23439
+148,{},custom,gyg,Gbayi,,,5.57378,21.9707
+149,{},custom,gyd,Kayardild,,,-17.0695,139.489
+150,{},custom,gya,Northwest Gbaya,,,5.9503,15.2569
+151,{},custom,udu,Uduk,,,9.16012,34.2293
+152,{},custom,ncf,Notsi,,,-3.0557,151.661
+153,{},custom,bej,Beja,,,17.2436,36.6666
+154,{},custom,ktz,South-Eastern Ju,,,-19.688,20.7673
+155,{},custom,beg,Lemeting,,,4.96207,114.933
+156,{},custom,stk,Arammba,,,-8.29593,141.445
+157,{},custom,bez,Bena (Tanzania),,,-9.26671,35.0364
+158,{},custom,nza,Tigon Mbembe,,,6.98399,10.7085
+159,{},custom,kto,Kuot,,,-3.06952,151.537
+160,{},custom,nzk,Nzakara,,,4.79567,22.8254
+161,{},custom,ktb,Kambaata,,,7.37582,37.9088
+162,{},custom,ane,Xârâcùù,,,-21.7034,165.996
+163,{},custom,lbz,Lardil,,,-16.5615,139.434
+164,{},custom,ank,Goemai,,,8.74455,9.72453
+165,{},custom,anu,Anywa,,,7.57714,34.0267
+166,{},custom,rap,Rapanui,,,-27.113,-109.342
+167,{},custom,sar,Saraveca,,,-11.9423,-65.3945
+168,{},custom,bhw,Biak,,,-0.9523,135.879
+169,{},custom,lic,Hlai,,,18.8062,109.459
+170,{},custom,lin,Lingala,,,1.40324,19.7829
+171,{},custom,hgm,ǂAkhoe Haiǁom,,,-19.7637,17.0299
+172,{},custom,lip,Sekpele,,,7.16751,0.5886
+173,{},custom,kab,Kabyle,,,36.4103,4.76137
+174,{},custom,tya,Tauya,,,-5.74255,145.366
+175,{},custom,bda,Bayot,,,12.6881,-16.3947
+176,{},custom,mrz,Marind,,,-8.15651,140.009
+177,{},custom,mrq,North Marquesan,,,-8.89412,-140.108
+178,{},custom,mrn,Cheke Holo,,,-8.27055,159.625
+179,{},custom,mri,Maori,,,-38.2881,176.541
+180,{},custom,axk,Yaka (Central African Republic),,,3.6515,17.2713
+181,{},custom,ury,Orya,,,-2.76483,139.89
+182,{},custom,dbj,Ida'an,,,5.29059,118.515
+183,{},custom,dba,Bangime,,,14.8116,-3.77092
+184,{},custom,tkw,Teanu,,,-11.6752,166.868
+185,{},custom,nld,Dutch,,,52.0,5.0
+186,{},custom,nlg,Gela,,,-9.04587,160.186
+187,{},custom,szp,Suabo,,,-2.07971,132.157
+188,{},custom,ngb,Northern Ngbandi,,,3.56357,21.8525
+189,{},custom,jav,Javanese,,,-0.572307,110.885
+190,{},custom,bfn,Bunak,,,-9.13618,125.216
+191,{},custom,bfm,Mmen,,,6.43213,10.2541
+192,{},custom,ksd,Kuanua,,,-4.30986,152.114
+193,{},custom,xmz,Mori Bawah,,,-2.56016,121.37
+194,{},custom,ymk,Makwe,,,-10.4673,40.0274
+195,{},custom,jae,Yabem,,,-6.67052,147.81
+196,{},custom,ksi,Krisa,,,-2.80084,141.303
+197,{},custom,geq,Geme,,,8.48359,20.6611
+198,{},custom,sms,Skolt Sami,,,68.8326,29.7204
+199,{},custom,kxa,Kairiru,,,-3.34608,143.558
+200,{},custom,kxc,Konso,,,5.39111,37.53
+201,{},custom,mgs,Manda-Matumba,,,-10.3991,34.7424
+202,{},custom,tbo,Tawala,,,-10.3115,150.644
+203,{},custom,NOCODE_Paunaca,Paunaca,,,-15.954991,-61.944581
+204,{},custom,mgz,Mbugwe,,,-3.75763,35.8133
+205,{},custom,tbc,Takia,,,-4.69057,145.975
+206,{},custom,hil,Hiligaynon,,,10.4018,122.974
+207,{},custom,gel,Ut-Main,,,11.5319,4.8387
+208,{},custom,baw,Bambili-Bambui,,,6.10821,10.2233
+209,{},custom,emi,Mussau-Emira,,,-1.44105,149.624
+210,{},custom,crb,Island Carib,,,14.2906,-61.2395
+211,{},custom,bae,Baré,,,1.91649,-66.828
+212,{},custom,she,Sheko,,,7.05022,35.2826
+213,{},custom,bam,Bambara,,,12.0401,-9.98949
+214,{},custom,arw,Lokono,,,5.64295,-56.9243
+215,{},custom,btx,Batak Karo,,,2.12787,98.2517
+216,{},custom,aau,Abau,,,-3.97222,141.324
+217,{},custom,wol,Wolof,,,15.2534,-15.383
+218,{},custom,irk,Iraqw,,,-4.19948,35.2939
+219,{},custom,lug,Ganda,,,0.66884,32.1515
+220,{},custom,tuv,Turkana,,,4.30688,35.7101
+221,{},custom,tuk,Turkmen,,,37.0872,59.1757
+222,{},custom,kew,West Kewa,,,-6.32097,143.73
+223,{},custom,kjd,Southern Kiwai,,,-8.64889,143.244
+224,{},custom,ilo,Iloko,,,15.9361,120.993
+225,{},custom,tlb,Tobelo,,,1.0946,128.154
+226,{},custom,tlf,Telefol,,,-5.07444,141.731
+227,{},custom,ung,Ngarinyin,,,-16.4006,126.433
+228,{},custom,unk,Enawené-Nawé,,,-12.4302,-58.9802
+229,{},custom,eto,Eton,,,4.21045,11.3935
+230,{},custom,had,Hatam,,,-1.13531,134.037
+231,{},custom,tgc,Tigak,,,-2.70951,150.893
+232,{},custom,tgo,Sudest,,,-11.5229,153.488
+233,{},custom,tgl,Tagalog,,,14.06,121.747
+234,{},custom,bbn,Uneapa,,,-4.89383,149.141
+235,{},custom,duc,Duna,,,-5.41439,142.475
+236,{},custom,swe,Swedish,,,59.800634,17.389526
+237,{},custom,yap,Yapese,,,9.55811,138.125
+238,{},custom,bbp,West Central Banda,,,6.81435,24.1012
+239,{},custom,gax,Boraana Oromo,,,1.05676,37.882
+240,{},custom,mcb,Machiguenga,,,-12.1291,-72.5017
+241,{},custom,otr,Otoro,,,11.1187,30.573
+242,{},custom,sad,Sandawe,,,-5.26918,35.4808
+243,{},custom,mcr,Menya,,,-7.17425,146.071
+244,{},custom,lgu,Longgu,,,-9.75258,160.663
+245,{},custom,fuv,Nigerian Fulfulde,,,10.9972,11.1188
+246,{},custom,fut,Futuna-Aniwa,,,-19.5303,170.215
+247,{},custom,tsu,Tsou,,,23.216,120.787
+248,{},custom,cuj,Mashco Piro,,,-11.4745,-70.7953
+249,{},custom,fuf,Pular,,,12.1826,-12.7338
+250,{},custom,aio,Aiton,,,26.5145,92.3169
+251,{},custom,mlv,Mwotlap,,,-13.6535,167.673
+252,{},custom,fuc,Pulaar,,,13.8694,-13.4482
+253,{},custom,cox,Nanti,,,-12.1018,-72.3507
+254,{},custom,yss,Yessan-Mayo,,,-4.15721,142.574
+255,{},custom,gni,Gooniyandi,,,-18.4073,126.351
+256,{},custom,aia,Arosi,,,-10.2441,161.432
+257,{},custom,rit,Ritarungo,,,-13.4559,135.259
+258,{},custom,avn,Avatime,,,6.8688,0.41314
+259,{},custom,cjm,Eastern Cham,,,11.2853,108.49
+260,{},custom,tqu,Touo,,,-8.58405,157.296
+261,{},custom,pab,Parecís,,,-14.5929,-57.4059
+262,{},custom,NOCODE_Maipure,Maipure,,,4.8,-67.5
+263,{},custom,anz,Anem,,,-5.54836,148.993
+264,{},custom,phk,Phake,,,27.8197,95.8131
+265,{},custom,syk,Sukur,,,10.8933,13.6437
+266,{},custom,nia,Nias,,,0.90691,97.4961
+267,{},custom,nid,Ngandi,,,-12.8448,134.649
+268,{},custom,kij,Kilivila,,,-8.72574,151.072
+269,{},custom,kqw,Kandas,,,-4.3652,152.781
+270,{},custom,NOCODE_Ngala-Santandrea,Ngala-Santandrea,,,6.63187,24.61853
+271,{},custom,zyb,Yongbei Zhuang,,,23.6818,107.184
+272,{},custom,thd,Thayore,,,-14.8159,142.034
+273,{},custom,ccc,Chamicuro,,,-5.1149,-75.6778
+274,{},custom,xed,Hdi,,,10.942,13.6881
+275,{},custom,yee,Yimas,,,-4.71731,143.572
+276,{},custom,yey,Yeyi,,,-18.9178,23.6088
+277,{},custom,pss,Kaulong,,,-6.08192,149.696
+278,{},custom,tcd,Tafi,,,6.79522,0.39875
+279,{},custom,gdn,Umanakaina,,,-9.89671,149.658
+280,{},custom,rgr,Resígaro,,,-2.48139,-71.3578
+281,{},custom,skq,Sininkere,,,13.7206,-0.78772
+282,{},custom,adz,Adzera,,,-6.39394,146.294
+283,{},custom,tio,Teop,,,-5.67474,154.971
+284,{},custom,bnn,Bunun,,,23.4116,121.025
+285,{},custom,hau,Hausa,,,11.1513,8.7804
+286,{},custom,amh,Amharic,,,11.7082,39.5435
+287,{},custom,mor,Moro,,,10.9194,30.2138
+288,{},custom,ame,Yanesha',,,-10.5454,-75.315
+289,{},custom,amz,Atampaya,,,-11.0018,142.273
+290,{},custom,amp,Alamblak,,,-4.66307,143.316
+291,{},custom,moa,Mwan,,,7.87533,-5.94577
+292,{},custom,lcm,Tungag,,,-2.52188,150.198
+293,{},custom,mhl,Mauwake,,,-4.52416,145.394
+294,{},custom,wbp,Warlpiri,,,-20.1008,131.05
+295,{},custom,wbj,Alagwa,,,-4.64148,35.7231
+296,{},custom,mhs,Buru (Indonesia),,,-3.43957,126.632
+297,{},custom,tvl,Tuvalu,,,-8.5,179.17
+298,{},custom,tvo,Tidore,,,0.02461,127.746
+299,{},custom,tms,Tima,,,11.7176,29.1632
+300,{},custom,kmc,Southern Dong,,,25.8874,109.222
+301,{},custom,for,Fore,,,-6.64473,145.507
+302,{},custom,gvf,Golin,,,-6.2249,144.85
+303,{},custom,kms,Kamasau,,,-3.8503,143.842
+304,{},custom,cni,Asháninka,,,-11.9311,-73.9073
+305,{},custom,plu,Palikúr,,,3.63993,-51.6246
+306,{},custom,plt,Plateau Malagasy,,,-19.5907,47.1211
+307,{},custom,rug,Roviana,,,-8.20493,157.408
+308,{},custom,cgg,Chiga,,,-1.04387,29.9122
+309,{},custom,pyu,Puyuma,,,22.643,120.996
+310,{},custom,aca,Achagua,,,4.38649,-72.2005
+311,{},custom,twe,Teiwa,,,-8.37662,124.174
+312,{},custom,nde,North Ndebele,,,-20.2513,27.4096
+313,{},custom,ndg,Ndengereko,,,-7.54628,38.958
+314,{},custom,yle,Yele,,,-11.3796,154.127
+315,{},custom,zul,Zulu,,,-25.3305,31.3512
+316,{},custom,bjg,Bidyogo,,,11.1097,-16.1497
+317,{},custom,mbh,Mangseng,,,-5.89752,150.68
+318,{},custom,bjo,Mid-Southern Banda,,,5.87893,22.4666
+319,{},custom,som,Somali,,,4.778704,45.152856
+320,{},custom,soq,Kanasi,,,-10.1658,149.751
+321,{},custom,mbq,Maisin,,,-9.22853,148.731
+322,{},custom,wan,Wan,,,7.88773,-5.82092
+323,{},custom,yre,Yaouré,,,6.95282,-5.57851
+324,{},custom,lom,Loma (Liberia),,,7.91585,-9.69906
+325,{},custom,gid,Gidar,,,9.87471,14.0785
+326,{},custom,gin,Hinuq,,,42.4502,45.8064
+327,{},custom,wau,Waurá,,,-13.296,-53.6971
+328,{},custom,mky,East Makian,,,0.07337,127.423
+329,{},custom,wap,Wapishana,,,2.58744,-59.8021
+330,{},custom,pwg,Gapapaiwa,,,-9.73317,149.854
+331,{},custom,buo,Terei,,,-6.70051,155.745
+332,{},custom,wnu,Usan,,,-4.84265,145.362
+333,{},custom,pwn,Paiwan,,,22.3271,120.806
+334,{},custom,mtg,Una,,,-4.69676,140.1
+335,{},custom,lvk,Lavukaleve,,,-9.05569,159.119
+336,{},custom,nnm,Namia,,,-3.85538,141.788
+337,{},custom,pio,Piapoco,,,4.37718,-68.5953
+338,{},custom,cbi,Cha'palaa,,,0.71489,-79.0508
+339,{},custom,inp,Iñapari,,,-12.4653,-69.3083
+340,{},custom,ind,Indonesian,,,-7.33458,109.716
+341,{},custom,khe,Korowai,,,-5.26952,140.047
+342,{},custom,piv,Vaeakau-Taumako,,,-9.95114,167.207
+343,{},custom,myf,Mao,,,9.82554,34.6522
+344,{},custom,kqr,Kimaragang,,,6.61982,116.96
+345,{},custom,naf,Nabak,,,-6.42709,146.966
+346,{},custom,nak,Nakanai,,,-5.59931,150.888
+347,{},custom,tiv,Tiv,,,6.88039,9.26287
+348,{},custom,tiw,Tiwi,,,-11.6308,130.949
+349,{},custom,nal,Nalik,,,-2.94411,151.332
+350,{},custom,xkz,Kurtokha,,,27.5365,90.9822
+351,{},custom,nas,Naasioi,,,-6.46022,155.632
+352,{},custom,naq,Nama,,,-25.0747,17.9767
+353,{},custom,ign,Ignaciano,,,-15.1188,-65.3993
+354,{},custom,nay,Narrinyeri,,,-36.2301,140.158
+355,{},custom,tic,Tira,,,11.0963,30.8092
+356,{},custom,kvc,Kove,,,-5.58623,149.63
+357,{},custom,ago,Tainae,,,-7.40306,145.682
+358,{},custom,bcm,Bannoni,,,-6.23061,155.128
+359,{},custom,bco,Kaluli,,,-6.45932,142.788
+360,{},custom,bcj,Bardi,,,-16.6274,122.906
+361,{},custom,bcq,Bench,,,7.04682,35.7673
+362,{},custom,svs,Savosavo,,,-9.12853,159.814
